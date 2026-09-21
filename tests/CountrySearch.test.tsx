@@ -89,7 +89,6 @@ describe("CountrySearch Component", () => {
     const fetchSpy = vi.spyOn(global, "fetch").mockResolvedValue({
       ok: true,
       status: 200,
-      json: async () => [mockCanada],
       json: async () => ({ results: [mockCanada] }),
     } as Response);
 
@@ -120,11 +119,9 @@ describe("CountrySearch Component", () => {
       vi.advanceTimersByTime(160);
     });
 
-    // Only one fetch call made with the final debounced query
     // Only one fetch call made with the final debounced query to /api/countries
     expect(fetchSpy).toHaveBeenCalledTimes(1);
     expect(fetchSpy).toHaveBeenCalledWith(
-      expect.stringContaining("name/can"),
       "/api/countries?q=can",
       expect.objectContaining({ signal: expect.any(AbortSignal) })
     );
@@ -134,7 +131,6 @@ describe("CountrySearch Component", () => {
     vi.spyOn(global, "fetch").mockResolvedValue({
       ok: true,
       status: 200,
-      json: async () => [mockCanada, mockCameroon],
       json: async () => ({ results: [mockCanada, mockCameroon] }),
     } as Response);
 
@@ -190,7 +186,6 @@ describe("CountrySearch Component", () => {
       resolvePromise!({
         ok: true,
         status: 200,
-        json: async () => [mockCanada],
         json: async () => ({ results: [mockCanada] }),
       } as Response);
     });
@@ -199,12 +194,8 @@ describe("CountrySearch Component", () => {
     expect(screen.getByText("Canada")).toBeInTheDocument();
   });
 
-  it("5. translates 404 API responses into empty state: No countries found for '[query]'", async () => {
   it("5. renders empty state for unmatched queries: No countries found for '[query]'", async () => {
     vi.spyOn(global, "fetch").mockResolvedValue({
-      ok: false,
-      status: 404,
-      json: async () => ({ status: 404, message: "Not Found" }),
       ok: true,
       status: 200,
       json: async () => ({ results: [] }),
@@ -226,12 +217,9 @@ describe("CountrySearch Component", () => {
     ).not.toBeInTheDocument();
   });
 
-  it("6. displays graceful error state on network or server API failure", async () => {
   it("6. displays graceful error state on server API failure", async () => {
     vi.spyOn(global, "fetch").mockResolvedValue({
       ok: false,
-      status: 500,
-      json: async () => ({ message: "Internal Server Error" }),
       status: 502,
       json: async () => ({ error: "Unable to search countries right now." }),
     } as Response);
@@ -249,7 +237,6 @@ describe("CountrySearch Component", () => {
     expect(errorAlert).toHaveTextContent(
       "Something went wrong while searching. Please try again."
     );
-    expect(errorAlert).not.toHaveTextContent("500");
     expect(errorAlert).not.toHaveTextContent("502");
   });
 
@@ -257,7 +244,6 @@ describe("CountrySearch Component", () => {
     vi.spyOn(global, "fetch").mockResolvedValue({
       ok: true,
       status: 200,
-      json: async () => [mockCanada, mockCameroon],
       json: async () => ({ results: [mockCanada, mockCameroon] }),
     } as Response);
 
@@ -298,7 +284,6 @@ describe("CountrySearch Component", () => {
     vi.spyOn(global, "fetch").mockResolvedValue({
       ok: true,
       status: 200,
-      json: async () => [mockCanada, mockCameroon],
       json: async () => ({ results: [mockCanada, mockCameroon] }),
     } as Response);
 
@@ -336,7 +321,6 @@ describe("CountrySearch Component", () => {
     const fetchSpy = vi.spyOn(global, "fetch").mockResolvedValue({
       ok: true,
       status: 200,
-      json: async () => [mockCanada, mockCameroon],
       json: async () => ({ results: [mockCanada, mockCameroon] }),
     } as Response);
 
@@ -381,7 +365,6 @@ describe("CountrySearch Component", () => {
     vi.spyOn(global, "fetch").mockResolvedValue({
       ok: true,
       status: 200,
-      json: async () => [mockCanada],
       json: async () => ({ results: [mockCanada] }),
     } as Response);
 
@@ -405,7 +388,6 @@ describe("CountrySearch Component", () => {
     vi.spyOn(global, "fetch").mockResolvedValue({
       ok: true,
       status: 200,
-      json: async () => [mockCanada, mockCameroon],
       json: async () => ({ results: [mockCanada, mockCameroon] }),
     } as Response);
 
@@ -435,7 +417,6 @@ describe("CountrySearch Component", () => {
     const fetchSpy = vi.spyOn(global, "fetch").mockResolvedValue({
       ok: true,
       status: 200,
-      json: async () => [mockCanada],
       json: async () => ({ results: [mockCanada] }),
     } as Response);
 
@@ -509,7 +490,6 @@ describe("CountrySearch Component", () => {
       resolveSecondRequest!({
         ok: true,
         status: 200,
-        json: async () => [mockGermany],
         json: async () => ({ results: [mockGermany] }),
       } as Response);
     });
@@ -521,7 +501,6 @@ describe("CountrySearch Component", () => {
       resolveFirstRequest!({
         ok: true,
         status: 200,
-        json: async () => [mockFrance],
         json: async () => ({ results: [mockFrance] }),
       } as Response);
     });

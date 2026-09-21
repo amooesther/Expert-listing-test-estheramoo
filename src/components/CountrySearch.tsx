@@ -94,7 +94,6 @@ export function CountrySearch() {
 
       try {
         const safeQuery = encodeURIComponent(trimmedQuery);
-        const url = `https://restcountries.com/v3.1/name/${safeQuery}?fields=name,flags,capital,cca2,region`;
         const url = `/api/countries?q=${safeQuery}`;
 
         const response = await fetch(url, { signal: controller.signal });
@@ -104,19 +103,10 @@ export function CountrySearch() {
           return;
         }
 
-        // REST Countries returns 404 when no matching countries are found
-        if (response.status === 404) {
-          setResults([]);
-          setIsOpen(true);
-          setIsLoading(false);
-          return;
-        }
-
         if (!response.ok) {
           throw new Error("Search failed");
         }
 
-        const data: Country[] = await response.json();
         const data: { results?: Country[]; error?: string } =
           await response.json();
 
@@ -125,7 +115,6 @@ export function CountrySearch() {
           return;
         }
 
-        setResults(data);
         if (data.error) {
           setError(data.error);
           setResults([]);
