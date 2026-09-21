@@ -108,5 +108,27 @@ describe("GET /api/countries Route Handler", () => {
     expect(res.status).toBe(500);
     expect(data).toEqual({ error: "Unable to search countries right now." });
   });
+
+  it("falls back gracefully when upstream returns deprecation / non-array payload for q=me", async () => {
+    vi.spyOn(global, "fetch").mockResolvedValue({
+      ok: true,
+      status: 200,
+      json: async () => ({
+        success: false,
+        data: null,
+        errors: [{ message: "This API version has been deprecated." }],
+      }),
+    } as Response);
+
+    const req = new NextRequest("http://localhost:3000/api/countries?q=me");
+    const res = await GET(req);
+    const data = await res.json();
+
+    expect(res.status).toBe(200);
+    expect(data.results).toBeDefined();
+    expect(Array.isArray(data.results)).toBe(true);
+    expect(data.results.length).toBeGreaterThan(0);
+    expect(data.results.some((c: Country) => c.name.common === "Mexico")).toBe(true);
+  });
 });
 

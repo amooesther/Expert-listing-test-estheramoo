@@ -260,11 +260,11 @@ export function CountrySearch() {
           Search countries
         </label>
 
-        <div className="relative flex items-center">
+        <div className="group relative flex items-center rounded-2xl border border-zinc-200/90 bg-white shadow-xs shadow-zinc-200/50 transition-all duration-200 focus-within:border-sky-500 focus-within:shadow-lg focus-within:shadow-sky-500/5 focus-within:ring-4 focus-within:ring-sky-500/10 dark:border-zinc-800 dark:bg-zinc-900/95 dark:shadow-none dark:focus-within:border-sky-400 dark:focus-within:ring-sky-400/15">
           {/* Search Icon */}
           <span
             aria-hidden="true"
-            className="pointer-events-none absolute left-4 text-zinc-400 dark:text-zinc-500"
+            className="pointer-events-none absolute left-4 text-zinc-400 transition-colors duration-150 group-focus-within:text-sky-500 dark:text-zinc-500 dark:group-focus-within:text-sky-400"
           >
             <svg
               className="h-5 w-5"
@@ -304,19 +304,19 @@ export function CountrySearch() {
             aria-haspopup="listbox"
             aria-controls={showDropdown ? "country-search-listbox" : undefined}
             aria-activedescendant={activeOptionId}
-            className="w-full rounded-xl border border-zinc-200 bg-white py-3.5 pl-11 pr-20 text-base text-zinc-900 shadow-xs placeholder:text-zinc-400 focus:border-zinc-500 focus:outline-hidden focus:ring-2 focus:ring-zinc-950/10 dark:border-zinc-800 dark:bg-zinc-900 dark:text-zinc-100 dark:placeholder:text-zinc-500 dark:focus:border-zinc-600 dark:focus:ring-white/10"
+            className="w-full rounded-2xl bg-transparent py-4 pl-12 pr-20 text-base text-zinc-900 placeholder:text-zinc-400 focus:outline-hidden dark:text-zinc-100 dark:placeholder:text-zinc-500"
           />
 
           {/* Right Action Area (Spinner & Clear Button) */}
-          <div className="absolute right-3 flex items-center gap-1.5">
+          <div className="absolute right-3.5 flex items-center gap-2">
             {isLoading && (
               <span
                 role="status"
                 aria-label="Searching countries"
-                className="flex items-center text-zinc-400 dark:text-zinc-500"
+                className="flex items-center text-sky-500 dark:text-sky-400"
               >
                 <svg
-                  className="h-4 w-4 animate-spin text-zinc-500"
+                  className="h-4 w-4 animate-spin"
                   fill="none"
                   viewBox="0 0 24 24"
                 >
@@ -342,7 +342,7 @@ export function CountrySearch() {
                 type="button"
                 onClick={handleClear}
                 aria-label="Clear search"
-                className="rounded-lg p-1 text-zinc-400 hover:bg-zinc-100 hover:text-zinc-600 focus:outline-hidden focus:ring-2 focus:ring-zinc-400 dark:hover:bg-zinc-800 dark:hover:text-zinc-200"
+                className="rounded-lg p-1 text-zinc-400 transition-colors duration-150 hover:bg-zinc-100 hover:text-zinc-700 focus:outline-hidden focus:ring-2 focus:ring-sky-400 dark:hover:bg-zinc-800 dark:hover:text-zinc-200"
               >
                 <svg
                   className="h-4 w-4"
@@ -364,14 +364,14 @@ export function CountrySearch() {
 
         {/* Suggestion Dropdown Panel */}
         {showDropdown && (
-          <div className="absolute z-20 mt-2 w-full overflow-hidden rounded-xl border border-zinc-200 bg-white shadow-lg dark:border-zinc-800 dark:bg-zinc-900">
+          <div className="absolute z-20 mt-2.5 w-full overflow-hidden rounded-2xl border border-zinc-200/90 bg-white/95 shadow-xl shadow-zinc-900/10 backdrop-blur-md dark:border-zinc-800 dark:bg-zinc-900/95 dark:shadow-black/50">
             {isLoading && results.length === 0 && (
               <div
                 role="status"
-                className="flex items-center justify-center gap-2 py-6 text-sm text-zinc-500 dark:text-zinc-400"
+                className="flex items-center justify-center gap-2.5 py-7 text-sm font-medium text-zinc-500 dark:text-zinc-400"
               >
                 <svg
-                  className="h-4 w-4 animate-spin"
+                  className="h-4 w-4 animate-spin text-sky-500 dark:text-sky-400"
                   fill="none"
                   viewBox="0 0 24 24"
                 >
@@ -396,7 +396,7 @@ export function CountrySearch() {
             {error && (
               <div
                 role="alert"
-                className="px-4 py-4 text-center text-sm text-red-600 dark:text-red-400"
+                className="px-4 py-5 text-center text-sm font-medium text-red-600 dark:text-red-400"
               >
                 {error}
               </div>
@@ -405,7 +405,7 @@ export function CountrySearch() {
             {showEmptyState && (
               <div
                 role="status"
-                className="px-4 py-6 text-center text-sm text-zinc-500 dark:text-zinc-400"
+                className="px-4 py-7 text-center text-sm font-medium text-zinc-500 dark:text-zinc-400"
               >
                 No countries found for &apos;{trimmedQuery}&apos;
               </div>
@@ -439,14 +439,14 @@ export function CountrySearch() {
                       }}
                       onClick={() => handleSelect(country)}
                       onMouseEnter={() => setActiveIndex(index)}
-                      className={`flex cursor-pointer items-center gap-3 px-4 py-3 transition-colors ${
+                      className={`flex cursor-pointer items-center gap-3.5 px-4 py-3.5 transition-colors duration-100 ${
                         isHighlighted
-                          ? "bg-zinc-100 dark:bg-zinc-800"
-                          : "hover:bg-zinc-50 dark:hover:bg-zinc-800/50"
+                          ? "bg-sky-50/90 text-sky-950 dark:bg-sky-950/50 dark:text-sky-100"
+                          : "hover:bg-zinc-50/80 dark:hover:bg-zinc-800/50 text-zinc-900 dark:text-zinc-100"
                       }`}
                     >
                       {/* Country Flag */}
-                      <div className="relative h-6 w-9 shrink-0 overflow-hidden rounded-xs border border-zinc-200/80 bg-zinc-100 dark:border-zinc-700/80 dark:bg-zinc-800">
+                      <div className="relative h-6 w-9 shrink-0 overflow-hidden rounded-xs border border-zinc-200/80 bg-zinc-100 shadow-2xs dark:border-zinc-700/80 dark:bg-zinc-800">
                         {/* eslint-disable-next-line @next/next/no-img-element */}
                         <img
                           src={country.flags.svg || country.flags.png}
@@ -461,14 +461,14 @@ export function CountrySearch() {
                       {/* Country Info */}
                       <div className="flex-1 min-w-0">
                         <div className="flex items-center justify-between gap-2">
-                          <span className="truncate font-medium text-zinc-900 dark:text-zinc-100">
+                          <span className="truncate font-semibold text-zinc-900 dark:text-zinc-100">
                             {country.name.common}
                           </span>
-                          <span className="shrink-0 font-mono text-xs text-zinc-400 dark:text-zinc-500">
+                          <span className="shrink-0 rounded bg-zinc-100 px-1.5 py-0.5 font-mono text-[10px] font-semibold text-zinc-600 dark:bg-zinc-800 dark:text-zinc-400">
                             {country.cca2}
                           </span>
                         </div>
-                        <div className="flex items-center gap-2 text-xs text-zinc-500 dark:text-zinc-400">
+                        <div className="mt-0.5 flex items-center gap-2 text-xs text-zinc-500 dark:text-zinc-400">
                           <span className="truncate">
                             Capital: {capitalDisplay}
                           </span>
@@ -488,7 +488,7 @@ export function CountrySearch() {
       {/* Keyboard navigation helper */}
       <p
         aria-hidden="true"
-        className="mt-2.5 hidden text-center text-xs text-zinc-400 sm:block dark:text-zinc-500"
+        className="mt-3 hidden text-center text-xs font-medium text-zinc-400 sm:block dark:text-zinc-500"
       >
         ↑ ↓ Navigate • Enter Select • Esc Close
       </p>
