@@ -1,0 +1,3996 @@
+[
+  {
+    "cca2": "AW",
+    "name": {
+      "common": "Aruba",
+      "official": "Aruba"
+    },
+    "flags": {
+      "png": "https://flagcdn.com/w320/aw.png",
+      "svg": "https://flagcdn.com/aw.svg",
+      "alt": "Flag of Aruba"
+    },
+    "capital": [
+      "Oranjestad"
+    ],
+    "region": "Americas"
+  },
+  {
+    "cca2": "AF",
+    "name": {
+      "common": "Afghanistan",
+      "official": "Islamic Republic of Afghanistan"
+    },
+    "flags": {
+      "png": "https://flagcdn.com/w320/af.png",
+      "svg": "https://flagcdn.com/af.svg",
+      "alt": "Flag of Afghanistan"
+    },
+    "capital": [
+      "Kabul"
+    ],
+    "region": "Asia"
+  },
+  {
+    "cca2": "AO",
+    "name": {
+      "common": "Angola",
+      "official": "Republic of Angola"
+    },
+    "flags": {
+      "png": "https://flagcdn.com/w320/ao.png",
+      "svg": "https://flagcdn.com/ao.svg",
+      "alt": "Flag of Angola"
+    },
+    "capital": [
+      "Luanda"
+    ],
+    "region": "Africa"
+  },
+  {
+    "cca2": "AI",
+    "name": {
+      "common": "Anguilla",
+      "official": "Anguilla"
+    },
+    "flags": {
+      "png": "https://flagcdn.com/w320/ai.png",
+      "svg": "https://flagcdn.com/ai.svg",
+      "alt": "Flag of Anguilla"
+    },
+    "capital": [
+      "The Valley"
+    ],
+    "region": "Americas"
+  },
+  {
+    "cca2": "AX",
+    "name": {
+      "common": "Åland Islands",
+      "official": "Åland Islands"
+    },
+    "flags": {
+      "png": "https://flagcdn.com/w320/ax.png",
+      "svg": "https://flagcdn.com/ax.svg",
+      "alt": "Flag of Åland Islands"
+    },
+    "capital": [
+      "Mariehamn"
+    ],
+    "region": "Europe"
+  },
+  {
+    "cca2": "AL",
+    "name": {
+      "common": "Albania",
+      "official": "Republic of Albania"
+    },
+    "flags": {
+      "png": "https://flagcdn.com/w320/al.png",
+      "svg": "https://flagcdn.com/al.svg",
+      "alt": "Flag of Albania"
+    },
+    "capital": [
+      "Tirana"
+    ],
+    "region": "Europe"
+  },
+  {
+    "cca2": "AD",
+    "name": {
+      "common": "Andorra",
+      "official": "Principality of Andorra"
+    },
+    "flags": {
+      "png": "https://flagcdn.com/w320/ad.png",
+      "svg": "https://flagcdn.com/ad.svg",
+      "alt": "Flag of Andorra"
+    },
+    "capital": [
+      "Andorra la Vella"
+    ],
+    "region": "Europe"
+  },
+  {
+    "cca2": "AE",
+    "name": {
+      "common": "United Arab Emirates",
+      "official": "United Arab Emirates"
+    },
+    "flags": {
+      "png": "https://flagcdn.com/w320/ae.png",
+      "svg": "https://flagcdn.com/ae.svg",
+      "alt": "Flag of United Arab Emirates"
+    },
+    "capital": [
+      "Abu Dhabi"
+    ],
+    "region": "Asia"
+  },
+  {
+    "cca2": "AR",
+    "name": {
+      "common": "Argentina",
+      "official": "Argentine Republic"
+    },
+    "flags": {
+      "png": "https://flagcdn.com/w320/ar.png",
+      "svg": "https://flagcdn.com/ar.svg",
+      "alt": "Flag of Argentina"
+    },
+    "capital": [
+      "Buenos Aires"
+    ],
+    "region": "Americas"
+  },
+  {
+    "cca2": "AM",
+    "name": {
+      "common": "Armenia",
+      "official": "Republic of Armenia"
+    },
+    "flags": {
+      "png": "https://flagcdn.com/w320/am.png",
+      "svg": "https://flagcdn.com/am.svg",
+      "alt": "Flag of Armenia"
+    },
+    "capital": [
+      "Yerevan"
+    ],
+    "region": "Asia"
+  },
+  {
+    "cca2": "AS",
+    "name": {
+      "common": "American Samoa",
+      "official": "American Samoa"
+    },
+    "flags": {
+      "png": "https://flagcdn.com/w320/as.png",
+      "svg": "https://flagcdn.com/as.svg",
+      "alt": "Flag of American Samoa"
+    },
+    "capital": [
+      "Pago Pago"
+    ],
+    "region": "Oceania"
+  },
+  {
+    "cca2": "AQ",
+    "name": {
+      "common": "Antarctica",
+      "official": "Antarctica"
+    },
+    "flags": {
+      "png": "https://flagcdn.com/w320/aq.png",
+      "svg": "https://flagcdn.com/aq.svg",
+      "alt": "Flag of Antarctica"
+    },
+    "capital": [],
+    "region": "Antarctic"
+  },
+  {
+    "cca2": "TF",
+    "name": {
+      "common": "French Southern and Antarctic Lands",
+      "official": "Territory of the French Southern and Antarctic Lands"
+    },
+    "flags": {
+      "png": "https://flagcdn.com/w320/tf.png",
+      "svg": "https://flagcdn.com/tf.svg",
+      "alt": "Flag of French Southern and Antarctic Lands"
+    },
+    "capital": [
+      "Port-aux-Français"
+    ],
+    "region": "Antarctic"
+  },
+  {
+    "cca2": "AG",
+    "name": {
+      "common": "Antigua and Barbuda",
+      "official": "Antigua and Barbuda"
+    },
+    "flags": {
+      "png": "https://flagcdn.com/w320/ag.png",
+      "svg": "https://flagcdn.com/ag.svg",
+      "alt": "Flag of Antigua and Barbuda"
+    },
+    "capital": [
+      "Saint John's"
+    ],
+    "region": "Americas"
+  },
+  {
+    "cca2": "AU",
+    "name": {
+      "common": "Australia",
+      "official": "Commonwealth of Australia"
+    },
+    "flags": {
+      "png": "https://flagcdn.com/w320/au.png",
+      "svg": "https://flagcdn.com/au.svg",
+      "alt": "Flag of Australia"
+    },
+    "capital": [
+      "Canberra"
+    ],
+    "region": "Oceania"
+  },
+  {
+    "cca2": "AT",
+    "name": {
+      "common": "Austria",
+      "official": "Republic of Austria"
+    },
+    "flags": {
+      "png": "https://flagcdn.com/w320/at.png",
+      "svg": "https://flagcdn.com/at.svg",
+      "alt": "Flag of Austria"
+    },
+    "capital": [
+      "Vienna"
+    ],
+    "region": "Europe"
+  },
+  {
+    "cca2": "AZ",
+    "name": {
+      "common": "Azerbaijan",
+      "official": "Republic of Azerbaijan"
+    },
+    "flags": {
+      "png": "https://flagcdn.com/w320/az.png",
+      "svg": "https://flagcdn.com/az.svg",
+      "alt": "Flag of Azerbaijan"
+    },
+    "capital": [
+      "Baku"
+    ],
+    "region": "Asia"
+  },
+  {
+    "cca2": "BI",
+    "name": {
+      "common": "Burundi",
+      "official": "Republic of Burundi"
+    },
+    "flags": {
+      "png": "https://flagcdn.com/w320/bi.png",
+      "svg": "https://flagcdn.com/bi.svg",
+      "alt": "Flag of Burundi"
+    },
+    "capital": [
+      "Gitega"
+    ],
+    "region": "Africa"
+  },
+  {
+    "cca2": "BE",
+    "name": {
+      "common": "Belgium",
+      "official": "Kingdom of Belgium"
+    },
+    "flags": {
+      "png": "https://flagcdn.com/w320/be.png",
+      "svg": "https://flagcdn.com/be.svg",
+      "alt": "Flag of Belgium"
+    },
+    "capital": [
+      "Brussels"
+    ],
+    "region": "Europe"
+  },
+  {
+    "cca2": "BJ",
+    "name": {
+      "common": "Benin",
+      "official": "Republic of Benin"
+    },
+    "flags": {
+      "png": "https://flagcdn.com/w320/bj.png",
+      "svg": "https://flagcdn.com/bj.svg",
+      "alt": "Flag of Benin"
+    },
+    "capital": [
+      "Porto-Novo"
+    ],
+    "region": "Africa"
+  },
+  {
+    "cca2": "BF",
+    "name": {
+      "common": "Burkina Faso",
+      "official": "Burkina Faso"
+    },
+    "flags": {
+      "png": "https://flagcdn.com/w320/bf.png",
+      "svg": "https://flagcdn.com/bf.svg",
+      "alt": "Flag of Burkina Faso"
+    },
+    "capital": [
+      "Ouagadougou"
+    ],
+    "region": "Africa"
+  },
+  {
+    "cca2": "BD",
+    "name": {
+      "common": "Bangladesh",
+      "official": "People's Republic of Bangladesh"
+    },
+    "flags": {
+      "png": "https://flagcdn.com/w320/bd.png",
+      "svg": "https://flagcdn.com/bd.svg",
+      "alt": "Flag of Bangladesh"
+    },
+    "capital": [
+      "Dhaka"
+    ],
+    "region": "Asia"
+  },
+  {
+    "cca2": "BG",
+    "name": {
+      "common": "Bulgaria",
+      "official": "Republic of Bulgaria"
+    },
+    "flags": {
+      "png": "https://flagcdn.com/w320/bg.png",
+      "svg": "https://flagcdn.com/bg.svg",
+      "alt": "Flag of Bulgaria"
+    },
+    "capital": [
+      "Sofia"
+    ],
+    "region": "Europe"
+  },
+  {
+    "cca2": "BH",
+    "name": {
+      "common": "Bahrain",
+      "official": "Kingdom of Bahrain"
+    },
+    "flags": {
+      "png": "https://flagcdn.com/w320/bh.png",
+      "svg": "https://flagcdn.com/bh.svg",
+      "alt": "Flag of Bahrain"
+    },
+    "capital": [
+      "Manama"
+    ],
+    "region": "Asia"
+  },
+  {
+    "cca2": "BS",
+    "name": {
+      "common": "Bahamas",
+      "official": "Commonwealth of the Bahamas"
+    },
+    "flags": {
+      "png": "https://flagcdn.com/w320/bs.png",
+      "svg": "https://flagcdn.com/bs.svg",
+      "alt": "Flag of Bahamas"
+    },
+    "capital": [
+      "Nassau"
+    ],
+    "region": "Americas"
+  },
+  {
+    "cca2": "BA",
+    "name": {
+      "common": "Bosnia and Herzegovina",
+      "official": "Bosnia and Herzegovina"
+    },
+    "flags": {
+      "png": "https://flagcdn.com/w320/ba.png",
+      "svg": "https://flagcdn.com/ba.svg",
+      "alt": "Flag of Bosnia and Herzegovina"
+    },
+    "capital": [
+      "Sarajevo"
+    ],
+    "region": "Europe"
+  },
+  {
+    "cca2": "BL",
+    "name": {
+      "common": "Saint Barthélemy",
+      "official": "Collectivity of Saint Barthélemy"
+    },
+    "flags": {
+      "png": "https://flagcdn.com/w320/bl.png",
+      "svg": "https://flagcdn.com/bl.svg",
+      "alt": "Flag of Saint Barthélemy"
+    },
+    "capital": [
+      "Gustavia"
+    ],
+    "region": "Americas"
+  },
+  {
+    "cca2": "SH",
+    "name": {
+      "common": "Saint Helena, Ascension and Tristan da Cunha",
+      "official": "Saint Helena, Ascension and Tristan da Cunha"
+    },
+    "flags": {
+      "png": "https://flagcdn.com/w320/sh.png",
+      "svg": "https://flagcdn.com/sh.svg",
+      "alt": "Flag of Saint Helena, Ascension and Tristan da Cunha"
+    },
+    "capital": [
+      "Jamestown"
+    ],
+    "region": "Africa"
+  },
+  {
+    "cca2": "BY",
+    "name": {
+      "common": "Belarus",
+      "official": "Republic of Belarus"
+    },
+    "flags": {
+      "png": "https://flagcdn.com/w320/by.png",
+      "svg": "https://flagcdn.com/by.svg",
+      "alt": "Flag of Belarus"
+    },
+    "capital": [
+      "Minsk"
+    ],
+    "region": "Europe"
+  },
+  {
+    "cca2": "BZ",
+    "name": {
+      "common": "Belize",
+      "official": "Belize"
+    },
+    "flags": {
+      "png": "https://flagcdn.com/w320/bz.png",
+      "svg": "https://flagcdn.com/bz.svg",
+      "alt": "Flag of Belize"
+    },
+    "capital": [
+      "Belmopan"
+    ],
+    "region": "Americas"
+  },
+  {
+    "cca2": "BM",
+    "name": {
+      "common": "Bermuda",
+      "official": "Bermuda"
+    },
+    "flags": {
+      "png": "https://flagcdn.com/w320/bm.png",
+      "svg": "https://flagcdn.com/bm.svg",
+      "alt": "Flag of Bermuda"
+    },
+    "capital": [
+      "Hamilton"
+    ],
+    "region": "Americas"
+  },
+  {
+    "cca2": "BO",
+    "name": {
+      "common": "Bolivia",
+      "official": "Plurinational State of Bolivia"
+    },
+    "flags": {
+      "png": "https://flagcdn.com/w320/bo.png",
+      "svg": "https://flagcdn.com/bo.svg",
+      "alt": "Flag of Bolivia"
+    },
+    "capital": [
+      "Sucre"
+    ],
+    "region": "Americas"
+  },
+  {
+    "cca2": "BQ",
+    "name": {
+      "common": "Caribbean Netherlands",
+      "official": "Bonaire, Sint Eustatius and Saba"
+    },
+    "flags": {
+      "png": "https://flagcdn.com/w320/bq.png",
+      "svg": "https://flagcdn.com/bq.svg",
+      "alt": "Flag of Caribbean Netherlands"
+    },
+    "capital": [
+      "Kralendijk",
+      "Oranjestad",
+      "The Bottom"
+    ],
+    "region": "Americas"
+  },
+  {
+    "cca2": "BR",
+    "name": {
+      "common": "Brazil",
+      "official": "Federative Republic of Brazil"
+    },
+    "flags": {
+      "png": "https://flagcdn.com/w320/br.png",
+      "svg": "https://flagcdn.com/br.svg",
+      "alt": "Flag of Brazil"
+    },
+    "capital": [
+      "Brasília"
+    ],
+    "region": "Americas"
+  },
+  {
+    "cca2": "BB",
+    "name": {
+      "common": "Barbados",
+      "official": "Barbados"
+    },
+    "flags": {
+      "png": "https://flagcdn.com/w320/bb.png",
+      "svg": "https://flagcdn.com/bb.svg",
+      "alt": "Flag of Barbados"
+    },
+    "capital": [
+      "Bridgetown"
+    ],
+    "region": "Americas"
+  },
+  {
+    "cca2": "BN",
+    "name": {
+      "common": "Brunei",
+      "official": "Nation of Brunei, Abode of Peace"
+    },
+    "flags": {
+      "png": "https://flagcdn.com/w320/bn.png",
+      "svg": "https://flagcdn.com/bn.svg",
+      "alt": "Flag of Brunei"
+    },
+    "capital": [
+      "Bandar Seri Begawan"
+    ],
+    "region": "Asia"
+  },
+  {
+    "cca2": "BT",
+    "name": {
+      "common": "Bhutan",
+      "official": "Kingdom of Bhutan"
+    },
+    "flags": {
+      "png": "https://flagcdn.com/w320/bt.png",
+      "svg": "https://flagcdn.com/bt.svg",
+      "alt": "Flag of Bhutan"
+    },
+    "capital": [
+      "Thimphu"
+    ],
+    "region": "Asia"
+  },
+  {
+    "cca2": "BV",
+    "name": {
+      "common": "Bouvet Island",
+      "official": "Bouvet Island"
+    },
+    "flags": {
+      "png": "https://flagcdn.com/w320/bv.png",
+      "svg": "https://flagcdn.com/bv.svg",
+      "alt": "Flag of Bouvet Island"
+    },
+    "capital": [],
+    "region": "Antarctic"
+  },
+  {
+    "cca2": "BW",
+    "name": {
+      "common": "Botswana",
+      "official": "Republic of Botswana"
+    },
+    "flags": {
+      "png": "https://flagcdn.com/w320/bw.png",
+      "svg": "https://flagcdn.com/bw.svg",
+      "alt": "Flag of Botswana"
+    },
+    "capital": [
+      "Gaborone"
+    ],
+    "region": "Africa"
+  },
+  {
+    "cca2": "CF",
+    "name": {
+      "common": "Central African Republic",
+      "official": "Central African Republic"
+    },
+    "flags": {
+      "png": "https://flagcdn.com/w320/cf.png",
+      "svg": "https://flagcdn.com/cf.svg",
+      "alt": "Flag of Central African Republic"
+    },
+    "capital": [
+      "Bangui"
+    ],
+    "region": "Africa"
+  },
+  {
+    "cca2": "CA",
+    "name": {
+      "common": "Canada",
+      "official": "Canada"
+    },
+    "flags": {
+      "png": "https://flagcdn.com/w320/ca.png",
+      "svg": "https://flagcdn.com/ca.svg",
+      "alt": "Flag of Canada"
+    },
+    "capital": [
+      "Ottawa"
+    ],
+    "region": "Americas"
+  },
+  {
+    "cca2": "CC",
+    "name": {
+      "common": "Cocos (Keeling) Islands",
+      "official": "Territory of the Cocos (Keeling) Islands"
+    },
+    "flags": {
+      "png": "https://flagcdn.com/w320/cc.png",
+      "svg": "https://flagcdn.com/cc.svg",
+      "alt": "Flag of Cocos (Keeling) Islands"
+    },
+    "capital": [
+      "West Island"
+    ],
+    "region": "Oceania"
+  },
+  {
+    "cca2": "CH",
+    "name": {
+      "common": "Switzerland",
+      "official": "Swiss Confederation"
+    },
+    "flags": {
+      "png": "https://flagcdn.com/w320/ch.png",
+      "svg": "https://flagcdn.com/ch.svg",
+      "alt": "Flag of Switzerland"
+    },
+    "capital": [
+      "Bern"
+    ],
+    "region": "Europe"
+  },
+  {
+    "cca2": "CL",
+    "name": {
+      "common": "Chile",
+      "official": "Republic of Chile"
+    },
+    "flags": {
+      "png": "https://flagcdn.com/w320/cl.png",
+      "svg": "https://flagcdn.com/cl.svg",
+      "alt": "Flag of Chile"
+    },
+    "capital": [
+      "Santiago"
+    ],
+    "region": "Americas"
+  },
+  {
+    "cca2": "CN",
+    "name": {
+      "common": "China",
+      "official": "People's Republic of China"
+    },
+    "flags": {
+      "png": "https://flagcdn.com/w320/cn.png",
+      "svg": "https://flagcdn.com/cn.svg",
+      "alt": "Flag of China"
+    },
+    "capital": [
+      "Beijing"
+    ],
+    "region": "Asia"
+  },
+  {
+    "cca2": "CI",
+    "name": {
+      "common": "Ivory Coast",
+      "official": "Republic of Côte d'Ivoire"
+    },
+    "flags": {
+      "png": "https://flagcdn.com/w320/ci.png",
+      "svg": "https://flagcdn.com/ci.svg",
+      "alt": "Flag of Ivory Coast"
+    },
+    "capital": [
+      "Yamoussoukro"
+    ],
+    "region": "Africa"
+  },
+  {
+    "cca2": "CM",
+    "name": {
+      "common": "Cameroon",
+      "official": "Republic of Cameroon"
+    },
+    "flags": {
+      "png": "https://flagcdn.com/w320/cm.png",
+      "svg": "https://flagcdn.com/cm.svg",
+      "alt": "Flag of Cameroon"
+    },
+    "capital": [
+      "Yaoundé"
+    ],
+    "region": "Africa"
+  },
+  {
+    "cca2": "CD",
+    "name": {
+      "common": "DR Congo",
+      "official": "Democratic Republic of the Congo"
+    },
+    "flags": {
+      "png": "https://flagcdn.com/w320/cd.png",
+      "svg": "https://flagcdn.com/cd.svg",
+      "alt": "Flag of DR Congo"
+    },
+    "capital": [
+      "Kinshasa"
+    ],
+    "region": "Africa"
+  },
+  {
+    "cca2": "CG",
+    "name": {
+      "common": "Congo",
+      "official": "Republic of the Congo"
+    },
+    "flags": {
+      "png": "https://flagcdn.com/w320/cg.png",
+      "svg": "https://flagcdn.com/cg.svg",
+      "alt": "Flag of Congo"
+    },
+    "capital": [
+      "Brazzaville"
+    ],
+    "region": "Africa"
+  },
+  {
+    "cca2": "CK",
+    "name": {
+      "common": "Cook Islands",
+      "official": "Cook Islands"
+    },
+    "flags": {
+      "png": "https://flagcdn.com/w320/ck.png",
+      "svg": "https://flagcdn.com/ck.svg",
+      "alt": "Flag of Cook Islands"
+    },
+    "capital": [
+      "Avarua"
+    ],
+    "region": "Oceania"
+  },
+  {
+    "cca2": "CO",
+    "name": {
+      "common": "Colombia",
+      "official": "Republic of Colombia"
+    },
+    "flags": {
+      "png": "https://flagcdn.com/w320/co.png",
+      "svg": "https://flagcdn.com/co.svg",
+      "alt": "Flag of Colombia"
+    },
+    "capital": [
+      "Bogotá"
+    ],
+    "region": "Americas"
+  },
+  {
+    "cca2": "KM",
+    "name": {
+      "common": "Comoros",
+      "official": "Union of the Comoros"
+    },
+    "flags": {
+      "png": "https://flagcdn.com/w320/km.png",
+      "svg": "https://flagcdn.com/km.svg",
+      "alt": "Flag of Comoros"
+    },
+    "capital": [
+      "Moroni"
+    ],
+    "region": "Africa"
+  },
+  {
+    "cca2": "CV",
+    "name": {
+      "common": "Cape Verde",
+      "official": "Republic of Cabo Verde"
+    },
+    "flags": {
+      "png": "https://flagcdn.com/w320/cv.png",
+      "svg": "https://flagcdn.com/cv.svg",
+      "alt": "Flag of Cape Verde"
+    },
+    "capital": [
+      "Praia"
+    ],
+    "region": "Africa"
+  },
+  {
+    "cca2": "CR",
+    "name": {
+      "common": "Costa Rica",
+      "official": "Republic of Costa Rica"
+    },
+    "flags": {
+      "png": "https://flagcdn.com/w320/cr.png",
+      "svg": "https://flagcdn.com/cr.svg",
+      "alt": "Flag of Costa Rica"
+    },
+    "capital": [
+      "San José"
+    ],
+    "region": "Americas"
+  },
+  {
+    "cca2": "CU",
+    "name": {
+      "common": "Cuba",
+      "official": "Republic of Cuba"
+    },
+    "flags": {
+      "png": "https://flagcdn.com/w320/cu.png",
+      "svg": "https://flagcdn.com/cu.svg",
+      "alt": "Flag of Cuba"
+    },
+    "capital": [
+      "Havana"
+    ],
+    "region": "Americas"
+  },
+  {
+    "cca2": "CW",
+    "name": {
+      "common": "Curaçao",
+      "official": "Country of Curaçao"
+    },
+    "flags": {
+      "png": "https://flagcdn.com/w320/cw.png",
+      "svg": "https://flagcdn.com/cw.svg",
+      "alt": "Flag of Curaçao"
+    },
+    "capital": [
+      "Willemstad"
+    ],
+    "region": "Americas"
+  },
+  {
+    "cca2": "CX",
+    "name": {
+      "common": "Christmas Island",
+      "official": "Territory of Christmas Island"
+    },
+    "flags": {
+      "png": "https://flagcdn.com/w320/cx.png",
+      "svg": "https://flagcdn.com/cx.svg",
+      "alt": "Flag of Christmas Island"
+    },
+    "capital": [
+      "Flying Fish Cove"
+    ],
+    "region": "Oceania"
+  },
+  {
+    "cca2": "KY",
+    "name": {
+      "common": "Cayman Islands",
+      "official": "Cayman Islands"
+    },
+    "flags": {
+      "png": "https://flagcdn.com/w320/ky.png",
+      "svg": "https://flagcdn.com/ky.svg",
+      "alt": "Flag of Cayman Islands"
+    },
+    "capital": [
+      "George Town"
+    ],
+    "region": "Americas"
+  },
+  {
+    "cca2": "CY",
+    "name": {
+      "common": "Cyprus",
+      "official": "Republic of Cyprus"
+    },
+    "flags": {
+      "png": "https://flagcdn.com/w320/cy.png",
+      "svg": "https://flagcdn.com/cy.svg",
+      "alt": "Flag of Cyprus"
+    },
+    "capital": [
+      "Nicosia"
+    ],
+    "region": "Europe"
+  },
+  {
+    "cca2": "CZ",
+    "name": {
+      "common": "Czechia",
+      "official": "Czech Republic"
+    },
+    "flags": {
+      "png": "https://flagcdn.com/w320/cz.png",
+      "svg": "https://flagcdn.com/cz.svg",
+      "alt": "Flag of Czechia"
+    },
+    "capital": [
+      "Prague"
+    ],
+    "region": "Europe"
+  },
+  {
+    "cca2": "DE",
+    "name": {
+      "common": "Germany",
+      "official": "Federal Republic of Germany"
+    },
+    "flags": {
+      "png": "https://flagcdn.com/w320/de.png",
+      "svg": "https://flagcdn.com/de.svg",
+      "alt": "Flag of Germany"
+    },
+    "capital": [
+      "Berlin"
+    ],
+    "region": "Europe"
+  },
+  {
+    "cca2": "DJ",
+    "name": {
+      "common": "Djibouti",
+      "official": "Republic of Djibouti"
+    },
+    "flags": {
+      "png": "https://flagcdn.com/w320/dj.png",
+      "svg": "https://flagcdn.com/dj.svg",
+      "alt": "Flag of Djibouti"
+    },
+    "capital": [
+      "Djibouti"
+    ],
+    "region": "Africa"
+  },
+  {
+    "cca2": "DM",
+    "name": {
+      "common": "Dominica",
+      "official": "Commonwealth of Dominica"
+    },
+    "flags": {
+      "png": "https://flagcdn.com/w320/dm.png",
+      "svg": "https://flagcdn.com/dm.svg",
+      "alt": "Flag of Dominica"
+    },
+    "capital": [
+      "Roseau"
+    ],
+    "region": "Americas"
+  },
+  {
+    "cca2": "DK",
+    "name": {
+      "common": "Denmark",
+      "official": "Kingdom of Denmark"
+    },
+    "flags": {
+      "png": "https://flagcdn.com/w320/dk.png",
+      "svg": "https://flagcdn.com/dk.svg",
+      "alt": "Flag of Denmark"
+    },
+    "capital": [
+      "Copenhagen"
+    ],
+    "region": "Europe"
+  },
+  {
+    "cca2": "DO",
+    "name": {
+      "common": "Dominican Republic",
+      "official": "Dominican Republic"
+    },
+    "flags": {
+      "png": "https://flagcdn.com/w320/do.png",
+      "svg": "https://flagcdn.com/do.svg",
+      "alt": "Flag of Dominican Republic"
+    },
+    "capital": [
+      "Santo Domingo"
+    ],
+    "region": "Americas"
+  },
+  {
+    "cca2": "DZ",
+    "name": {
+      "common": "Algeria",
+      "official": "People's Democratic Republic of Algeria"
+    },
+    "flags": {
+      "png": "https://flagcdn.com/w320/dz.png",
+      "svg": "https://flagcdn.com/dz.svg",
+      "alt": "Flag of Algeria"
+    },
+    "capital": [
+      "Algiers"
+    ],
+    "region": "Africa"
+  },
+  {
+    "cca2": "EC",
+    "name": {
+      "common": "Ecuador",
+      "official": "Republic of Ecuador"
+    },
+    "flags": {
+      "png": "https://flagcdn.com/w320/ec.png",
+      "svg": "https://flagcdn.com/ec.svg",
+      "alt": "Flag of Ecuador"
+    },
+    "capital": [
+      "Quito"
+    ],
+    "region": "Americas"
+  },
+  {
+    "cca2": "EG",
+    "name": {
+      "common": "Egypt",
+      "official": "Arab Republic of Egypt"
+    },
+    "flags": {
+      "png": "https://flagcdn.com/w320/eg.png",
+      "svg": "https://flagcdn.com/eg.svg",
+      "alt": "Flag of Egypt"
+    },
+    "capital": [
+      "Cairo"
+    ],
+    "region": "Africa"
+  },
+  {
+    "cca2": "ER",
+    "name": {
+      "common": "Eritrea",
+      "official": "State of Eritrea"
+    },
+    "flags": {
+      "png": "https://flagcdn.com/w320/er.png",
+      "svg": "https://flagcdn.com/er.svg",
+      "alt": "Flag of Eritrea"
+    },
+    "capital": [
+      "Asmara"
+    ],
+    "region": "Africa"
+  },
+  {
+    "cca2": "EH",
+    "name": {
+      "common": "Western Sahara",
+      "official": "Sahrawi Arab Democratic Republic"
+    },
+    "flags": {
+      "png": "https://flagcdn.com/w320/eh.png",
+      "svg": "https://flagcdn.com/eh.svg",
+      "alt": "Flag of Western Sahara"
+    },
+    "capital": [
+      "El Aaiún"
+    ],
+    "region": "Africa"
+  },
+  {
+    "cca2": "ES",
+    "name": {
+      "common": "Spain",
+      "official": "Kingdom of Spain"
+    },
+    "flags": {
+      "png": "https://flagcdn.com/w320/es.png",
+      "svg": "https://flagcdn.com/es.svg",
+      "alt": "Flag of Spain"
+    },
+    "capital": [
+      "Madrid"
+    ],
+    "region": "Europe"
+  },
+  {
+    "cca2": "EE",
+    "name": {
+      "common": "Estonia",
+      "official": "Republic of Estonia"
+    },
+    "flags": {
+      "png": "https://flagcdn.com/w320/ee.png",
+      "svg": "https://flagcdn.com/ee.svg",
+      "alt": "Flag of Estonia"
+    },
+    "capital": [
+      "Tallinn"
+    ],
+    "region": "Europe"
+  },
+  {
+    "cca2": "ET",
+    "name": {
+      "common": "Ethiopia",
+      "official": "Federal Democratic Republic of Ethiopia"
+    },
+    "flags": {
+      "png": "https://flagcdn.com/w320/et.png",
+      "svg": "https://flagcdn.com/et.svg",
+      "alt": "Flag of Ethiopia"
+    },
+    "capital": [
+      "Addis Ababa"
+    ],
+    "region": "Africa"
+  },
+  {
+    "cca2": "FI",
+    "name": {
+      "common": "Finland",
+      "official": "Republic of Finland"
+    },
+    "flags": {
+      "png": "https://flagcdn.com/w320/fi.png",
+      "svg": "https://flagcdn.com/fi.svg",
+      "alt": "Flag of Finland"
+    },
+    "capital": [
+      "Helsinki"
+    ],
+    "region": "Europe"
+  },
+  {
+    "cca2": "FJ",
+    "name": {
+      "common": "Fiji",
+      "official": "Republic of Fiji"
+    },
+    "flags": {
+      "png": "https://flagcdn.com/w320/fj.png",
+      "svg": "https://flagcdn.com/fj.svg",
+      "alt": "Flag of Fiji"
+    },
+    "capital": [
+      "Suva"
+    ],
+    "region": "Oceania"
+  },
+  {
+    "cca2": "FK",
+    "name": {
+      "common": "Falkland Islands",
+      "official": "Falkland Islands"
+    },
+    "flags": {
+      "png": "https://flagcdn.com/w320/fk.png",
+      "svg": "https://flagcdn.com/fk.svg",
+      "alt": "Flag of Falkland Islands"
+    },
+    "capital": [
+      "Stanley"
+    ],
+    "region": "Americas"
+  },
+  {
+    "cca2": "FR",
+    "name": {
+      "common": "France",
+      "official": "French Republic"
+    },
+    "flags": {
+      "png": "https://flagcdn.com/w320/fr.png",
+      "svg": "https://flagcdn.com/fr.svg",
+      "alt": "Flag of France"
+    },
+    "capital": [
+      "Paris"
+    ],
+    "region": "Europe"
+  },
+  {
+    "cca2": "FO",
+    "name": {
+      "common": "Faroe Islands",
+      "official": "Faroe Islands"
+    },
+    "flags": {
+      "png": "https://flagcdn.com/w320/fo.png",
+      "svg": "https://flagcdn.com/fo.svg",
+      "alt": "Flag of Faroe Islands"
+    },
+    "capital": [
+      "Tórshavn"
+    ],
+    "region": "Europe"
+  },
+  {
+    "cca2": "FM",
+    "name": {
+      "common": "Micronesia",
+      "official": "Federated States of Micronesia"
+    },
+    "flags": {
+      "png": "https://flagcdn.com/w320/fm.png",
+      "svg": "https://flagcdn.com/fm.svg",
+      "alt": "Flag of Micronesia"
+    },
+    "capital": [
+      "Palikir"
+    ],
+    "region": "Oceania"
+  },
+  {
+    "cca2": "GA",
+    "name": {
+      "common": "Gabon",
+      "official": "Gabonese Republic"
+    },
+    "flags": {
+      "png": "https://flagcdn.com/w320/ga.png",
+      "svg": "https://flagcdn.com/ga.svg",
+      "alt": "Flag of Gabon"
+    },
+    "capital": [
+      "Libreville"
+    ],
+    "region": "Africa"
+  },
+  {
+    "cca2": "GB",
+    "name": {
+      "common": "United Kingdom",
+      "official": "United Kingdom of Great Britain and Northern Ireland"
+    },
+    "flags": {
+      "png": "https://flagcdn.com/w320/gb.png",
+      "svg": "https://flagcdn.com/gb.svg",
+      "alt": "Flag of United Kingdom"
+    },
+    "capital": [
+      "London"
+    ],
+    "region": "Europe"
+  },
+  {
+    "cca2": "GE",
+    "name": {
+      "common": "Georgia",
+      "official": "Georgia"
+    },
+    "flags": {
+      "png": "https://flagcdn.com/w320/ge.png",
+      "svg": "https://flagcdn.com/ge.svg",
+      "alt": "Flag of Georgia"
+    },
+    "capital": [
+      "Tbilisi"
+    ],
+    "region": "Asia"
+  },
+  {
+    "cca2": "GG",
+    "name": {
+      "common": "Guernsey",
+      "official": "Bailiwick of Guernsey"
+    },
+    "flags": {
+      "png": "https://flagcdn.com/w320/gg.png",
+      "svg": "https://flagcdn.com/gg.svg",
+      "alt": "Flag of Guernsey"
+    },
+    "capital": [
+      "St. Peter Port"
+    ],
+    "region": "Europe"
+  },
+  {
+    "cca2": "GH",
+    "name": {
+      "common": "Ghana",
+      "official": "Republic of Ghana"
+    },
+    "flags": {
+      "png": "https://flagcdn.com/w320/gh.png",
+      "svg": "https://flagcdn.com/gh.svg",
+      "alt": "Flag of Ghana"
+    },
+    "capital": [
+      "Accra"
+    ],
+    "region": "Africa"
+  },
+  {
+    "cca2": "GI",
+    "name": {
+      "common": "Gibraltar",
+      "official": "Gibraltar"
+    },
+    "flags": {
+      "png": "https://flagcdn.com/w320/gi.png",
+      "svg": "https://flagcdn.com/gi.svg",
+      "alt": "Flag of Gibraltar"
+    },
+    "capital": [
+      "Gibraltar"
+    ],
+    "region": "Europe"
+  },
+  {
+    "cca2": "GN",
+    "name": {
+      "common": "Guinea",
+      "official": "Republic of Guinea"
+    },
+    "flags": {
+      "png": "https://flagcdn.com/w320/gn.png",
+      "svg": "https://flagcdn.com/gn.svg",
+      "alt": "Flag of Guinea"
+    },
+    "capital": [
+      "Conakry"
+    ],
+    "region": "Africa"
+  },
+  {
+    "cca2": "GP",
+    "name": {
+      "common": "Guadeloupe",
+      "official": "Guadeloupe"
+    },
+    "flags": {
+      "png": "https://flagcdn.com/w320/gp.png",
+      "svg": "https://flagcdn.com/gp.svg",
+      "alt": "Flag of Guadeloupe"
+    },
+    "capital": [
+      "Basse-Terre"
+    ],
+    "region": "Americas"
+  },
+  {
+    "cca2": "GM",
+    "name": {
+      "common": "Gambia",
+      "official": "Republic of the Gambia"
+    },
+    "flags": {
+      "png": "https://flagcdn.com/w320/gm.png",
+      "svg": "https://flagcdn.com/gm.svg",
+      "alt": "Flag of Gambia"
+    },
+    "capital": [
+      "Banjul"
+    ],
+    "region": "Africa"
+  },
+  {
+    "cca2": "GW",
+    "name": {
+      "common": "Guinea-Bissau",
+      "official": "Republic of Guinea-Bissau"
+    },
+    "flags": {
+      "png": "https://flagcdn.com/w320/gw.png",
+      "svg": "https://flagcdn.com/gw.svg",
+      "alt": "Flag of Guinea-Bissau"
+    },
+    "capital": [
+      "Bissau"
+    ],
+    "region": "Africa"
+  },
+  {
+    "cca2": "GQ",
+    "name": {
+      "common": "Equatorial Guinea",
+      "official": "Republic of Equatorial Guinea"
+    },
+    "flags": {
+      "png": "https://flagcdn.com/w320/gq.png",
+      "svg": "https://flagcdn.com/gq.svg",
+      "alt": "Flag of Equatorial Guinea"
+    },
+    "capital": [
+      "Malabo"
+    ],
+    "region": "Africa"
+  },
+  {
+    "cca2": "GR",
+    "name": {
+      "common": "Greece",
+      "official": "Hellenic Republic"
+    },
+    "flags": {
+      "png": "https://flagcdn.com/w320/gr.png",
+      "svg": "https://flagcdn.com/gr.svg",
+      "alt": "Flag of Greece"
+    },
+    "capital": [
+      "Athens"
+    ],
+    "region": "Europe"
+  },
+  {
+    "cca2": "GD",
+    "name": {
+      "common": "Grenada",
+      "official": "Grenada"
+    },
+    "flags": {
+      "png": "https://flagcdn.com/w320/gd.png",
+      "svg": "https://flagcdn.com/gd.svg",
+      "alt": "Flag of Grenada"
+    },
+    "capital": [
+      "St. George's"
+    ],
+    "region": "Americas"
+  },
+  {
+    "cca2": "GL",
+    "name": {
+      "common": "Greenland",
+      "official": "Greenland"
+    },
+    "flags": {
+      "png": "https://flagcdn.com/w320/gl.png",
+      "svg": "https://flagcdn.com/gl.svg",
+      "alt": "Flag of Greenland"
+    },
+    "capital": [
+      "Nuuk"
+    ],
+    "region": "Americas"
+  },
+  {
+    "cca2": "GT",
+    "name": {
+      "common": "Guatemala",
+      "official": "Republic of Guatemala"
+    },
+    "flags": {
+      "png": "https://flagcdn.com/w320/gt.png",
+      "svg": "https://flagcdn.com/gt.svg",
+      "alt": "Flag of Guatemala"
+    },
+    "capital": [
+      "Guatemala City"
+    ],
+    "region": "Americas"
+  },
+  {
+    "cca2": "GF",
+    "name": {
+      "common": "French Guiana",
+      "official": "Guiana"
+    },
+    "flags": {
+      "png": "https://flagcdn.com/w320/gf.png",
+      "svg": "https://flagcdn.com/gf.svg",
+      "alt": "Flag of French Guiana"
+    },
+    "capital": [
+      "Cayenne"
+    ],
+    "region": "Americas"
+  },
+  {
+    "cca2": "GU",
+    "name": {
+      "common": "Guam",
+      "official": "Guam"
+    },
+    "flags": {
+      "png": "https://flagcdn.com/w320/gu.png",
+      "svg": "https://flagcdn.com/gu.svg",
+      "alt": "Flag of Guam"
+    },
+    "capital": [
+      "Hagåtña"
+    ],
+    "region": "Oceania"
+  },
+  {
+    "cca2": "GY",
+    "name": {
+      "common": "Guyana",
+      "official": "Co-operative Republic of Guyana"
+    },
+    "flags": {
+      "png": "https://flagcdn.com/w320/gy.png",
+      "svg": "https://flagcdn.com/gy.svg",
+      "alt": "Flag of Guyana"
+    },
+    "capital": [
+      "Georgetown"
+    ],
+    "region": "Americas"
+  },
+  {
+    "cca2": "HK",
+    "name": {
+      "common": "Hong Kong",
+      "official": "Hong Kong Special Administrative Region of the People's Republic of China"
+    },
+    "flags": {
+      "png": "https://flagcdn.com/w320/hk.png",
+      "svg": "https://flagcdn.com/hk.svg",
+      "alt": "Flag of Hong Kong"
+    },
+    "capital": [
+      "City of Victoria"
+    ],
+    "region": "Asia"
+  },
+  {
+    "cca2": "HM",
+    "name": {
+      "common": "Heard Island and McDonald Islands",
+      "official": "Heard Island and McDonald Islands"
+    },
+    "flags": {
+      "png": "https://flagcdn.com/w320/hm.png",
+      "svg": "https://flagcdn.com/hm.svg",
+      "alt": "Flag of Heard Island and McDonald Islands"
+    },
+    "capital": [],
+    "region": "Antarctic"
+  },
+  {
+    "cca2": "HN",
+    "name": {
+      "common": "Honduras",
+      "official": "Republic of Honduras"
+    },
+    "flags": {
+      "png": "https://flagcdn.com/w320/hn.png",
+      "svg": "https://flagcdn.com/hn.svg",
+      "alt": "Flag of Honduras"
+    },
+    "capital": [
+      "Tegucigalpa"
+    ],
+    "region": "Americas"
+  },
+  {
+    "cca2": "HR",
+    "name": {
+      "common": "Croatia",
+      "official": "Republic of Croatia"
+    },
+    "flags": {
+      "png": "https://flagcdn.com/w320/hr.png",
+      "svg": "https://flagcdn.com/hr.svg",
+      "alt": "Flag of Croatia"
+    },
+    "capital": [
+      "Zagreb"
+    ],
+    "region": "Europe"
+  },
+  {
+    "cca2": "HT",
+    "name": {
+      "common": "Haiti",
+      "official": "Republic of Haiti"
+    },
+    "flags": {
+      "png": "https://flagcdn.com/w320/ht.png",
+      "svg": "https://flagcdn.com/ht.svg",
+      "alt": "Flag of Haiti"
+    },
+    "capital": [
+      "Port-au-Prince"
+    ],
+    "region": "Americas"
+  },
+  {
+    "cca2": "HU",
+    "name": {
+      "common": "Hungary",
+      "official": "Hungary"
+    },
+    "flags": {
+      "png": "https://flagcdn.com/w320/hu.png",
+      "svg": "https://flagcdn.com/hu.svg",
+      "alt": "Flag of Hungary"
+    },
+    "capital": [
+      "Budapest"
+    ],
+    "region": "Europe"
+  },
+  {
+    "cca2": "ID",
+    "name": {
+      "common": "Indonesia",
+      "official": "Republic of Indonesia"
+    },
+    "flags": {
+      "png": "https://flagcdn.com/w320/id.png",
+      "svg": "https://flagcdn.com/id.svg",
+      "alt": "Flag of Indonesia"
+    },
+    "capital": [
+      "Jakarta"
+    ],
+    "region": "Asia"
+  },
+  {
+    "cca2": "IM",
+    "name": {
+      "common": "Isle of Man",
+      "official": "Isle of Man"
+    },
+    "flags": {
+      "png": "https://flagcdn.com/w320/im.png",
+      "svg": "https://flagcdn.com/im.svg",
+      "alt": "Flag of Isle of Man"
+    },
+    "capital": [
+      "Douglas"
+    ],
+    "region": "Europe"
+  },
+  {
+    "cca2": "IN",
+    "name": {
+      "common": "India",
+      "official": "Republic of India"
+    },
+    "flags": {
+      "png": "https://flagcdn.com/w320/in.png",
+      "svg": "https://flagcdn.com/in.svg",
+      "alt": "Flag of India"
+    },
+    "capital": [
+      "New Delhi"
+    ],
+    "region": "Asia"
+  },
+  {
+    "cca2": "IO",
+    "name": {
+      "common": "British Indian Ocean Territory",
+      "official": "British Indian Ocean Territory"
+    },
+    "flags": {
+      "png": "https://flagcdn.com/w320/io.png",
+      "svg": "https://flagcdn.com/io.svg",
+      "alt": "Flag of British Indian Ocean Territory"
+    },
+    "capital": [
+      "Diego Garcia"
+    ],
+    "region": "Africa"
+  },
+  {
+    "cca2": "IE",
+    "name": {
+      "common": "Ireland",
+      "official": "Republic of Ireland"
+    },
+    "flags": {
+      "png": "https://flagcdn.com/w320/ie.png",
+      "svg": "https://flagcdn.com/ie.svg",
+      "alt": "Flag of Ireland"
+    },
+    "capital": [
+      "Dublin"
+    ],
+    "region": "Europe"
+  },
+  {
+    "cca2": "IR",
+    "name": {
+      "common": "Iran",
+      "official": "Islamic Republic of Iran"
+    },
+    "flags": {
+      "png": "https://flagcdn.com/w320/ir.png",
+      "svg": "https://flagcdn.com/ir.svg",
+      "alt": "Flag of Iran"
+    },
+    "capital": [
+      "Tehran"
+    ],
+    "region": "Asia"
+  },
+  {
+    "cca2": "IQ",
+    "name": {
+      "common": "Iraq",
+      "official": "Republic of Iraq"
+    },
+    "flags": {
+      "png": "https://flagcdn.com/w320/iq.png",
+      "svg": "https://flagcdn.com/iq.svg",
+      "alt": "Flag of Iraq"
+    },
+    "capital": [
+      "Baghdad"
+    ],
+    "region": "Asia"
+  },
+  {
+    "cca2": "IS",
+    "name": {
+      "common": "Iceland",
+      "official": "Iceland"
+    },
+    "flags": {
+      "png": "https://flagcdn.com/w320/is.png",
+      "svg": "https://flagcdn.com/is.svg",
+      "alt": "Flag of Iceland"
+    },
+    "capital": [
+      "Reykjavik"
+    ],
+    "region": "Europe"
+  },
+  {
+    "cca2": "IL",
+    "name": {
+      "common": "Israel",
+      "official": "State of Israel"
+    },
+    "flags": {
+      "png": "https://flagcdn.com/w320/il.png",
+      "svg": "https://flagcdn.com/il.svg",
+      "alt": "Flag of Israel"
+    },
+    "capital": [
+      "Jerusalem"
+    ],
+    "region": "Asia"
+  },
+  {
+    "cca2": "IT",
+    "name": {
+      "common": "Italy",
+      "official": "Italian Republic"
+    },
+    "flags": {
+      "png": "https://flagcdn.com/w320/it.png",
+      "svg": "https://flagcdn.com/it.svg",
+      "alt": "Flag of Italy"
+    },
+    "capital": [
+      "Rome"
+    ],
+    "region": "Europe"
+  },
+  {
+    "cca2": "JM",
+    "name": {
+      "common": "Jamaica",
+      "official": "Jamaica"
+    },
+    "flags": {
+      "png": "https://flagcdn.com/w320/jm.png",
+      "svg": "https://flagcdn.com/jm.svg",
+      "alt": "Flag of Jamaica"
+    },
+    "capital": [
+      "Kingston"
+    ],
+    "region": "Americas"
+  },
+  {
+    "cca2": "JE",
+    "name": {
+      "common": "Jersey",
+      "official": "Bailiwick of Jersey"
+    },
+    "flags": {
+      "png": "https://flagcdn.com/w320/je.png",
+      "svg": "https://flagcdn.com/je.svg",
+      "alt": "Flag of Jersey"
+    },
+    "capital": [
+      "Saint Helier"
+    ],
+    "region": "Europe"
+  },
+  {
+    "cca2": "JO",
+    "name": {
+      "common": "Jordan",
+      "official": "Hashemite Kingdom of Jordan"
+    },
+    "flags": {
+      "png": "https://flagcdn.com/w320/jo.png",
+      "svg": "https://flagcdn.com/jo.svg",
+      "alt": "Flag of Jordan"
+    },
+    "capital": [
+      "Amman"
+    ],
+    "region": "Asia"
+  },
+  {
+    "cca2": "JP",
+    "name": {
+      "common": "Japan",
+      "official": "Japan"
+    },
+    "flags": {
+      "png": "https://flagcdn.com/w320/jp.png",
+      "svg": "https://flagcdn.com/jp.svg",
+      "alt": "Flag of Japan"
+    },
+    "capital": [
+      "Tokyo"
+    ],
+    "region": "Asia"
+  },
+  {
+    "cca2": "KZ",
+    "name": {
+      "common": "Kazakhstan",
+      "official": "Republic of Kazakhstan"
+    },
+    "flags": {
+      "png": "https://flagcdn.com/w320/kz.png",
+      "svg": "https://flagcdn.com/kz.svg",
+      "alt": "Flag of Kazakhstan"
+    },
+    "capital": [
+      "Astana"
+    ],
+    "region": "Asia"
+  },
+  {
+    "cca2": "KE",
+    "name": {
+      "common": "Kenya",
+      "official": "Republic of Kenya"
+    },
+    "flags": {
+      "png": "https://flagcdn.com/w320/ke.png",
+      "svg": "https://flagcdn.com/ke.svg",
+      "alt": "Flag of Kenya"
+    },
+    "capital": [
+      "Nairobi"
+    ],
+    "region": "Africa"
+  },
+  {
+    "cca2": "KG",
+    "name": {
+      "common": "Kyrgyzstan",
+      "official": "Kyrgyz Republic"
+    },
+    "flags": {
+      "png": "https://flagcdn.com/w320/kg.png",
+      "svg": "https://flagcdn.com/kg.svg",
+      "alt": "Flag of Kyrgyzstan"
+    },
+    "capital": [
+      "Bishkek"
+    ],
+    "region": "Asia"
+  },
+  {
+    "cca2": "KH",
+    "name": {
+      "common": "Cambodia",
+      "official": "Kingdom of Cambodia"
+    },
+    "flags": {
+      "png": "https://flagcdn.com/w320/kh.png",
+      "svg": "https://flagcdn.com/kh.svg",
+      "alt": "Flag of Cambodia"
+    },
+    "capital": [
+      "Phnom Penh"
+    ],
+    "region": "Asia"
+  },
+  {
+    "cca2": "KI",
+    "name": {
+      "common": "Kiribati",
+      "official": "Independent and Sovereign Republic of Kiribati"
+    },
+    "flags": {
+      "png": "https://flagcdn.com/w320/ki.png",
+      "svg": "https://flagcdn.com/ki.svg",
+      "alt": "Flag of Kiribati"
+    },
+    "capital": [
+      "South Tarawa"
+    ],
+    "region": "Oceania"
+  },
+  {
+    "cca2": "KN",
+    "name": {
+      "common": "Saint Kitts and Nevis",
+      "official": "Federation of Saint Christopher and Nevis"
+    },
+    "flags": {
+      "png": "https://flagcdn.com/w320/kn.png",
+      "svg": "https://flagcdn.com/kn.svg",
+      "alt": "Flag of Saint Kitts and Nevis"
+    },
+    "capital": [
+      "Basseterre"
+    ],
+    "region": "Americas"
+  },
+  {
+    "cca2": "KR",
+    "name": {
+      "common": "South Korea",
+      "official": "Republic of Korea"
+    },
+    "flags": {
+      "png": "https://flagcdn.com/w320/kr.png",
+      "svg": "https://flagcdn.com/kr.svg",
+      "alt": "Flag of South Korea"
+    },
+    "capital": [
+      "Seoul"
+    ],
+    "region": "Asia"
+  },
+  {
+    "cca2": "XK",
+    "name": {
+      "common": "Kosovo",
+      "official": "Republic of Kosovo"
+    },
+    "flags": {
+      "png": "https://flagcdn.com/w320/xk.png",
+      "svg": "https://flagcdn.com/xk.svg",
+      "alt": "Flag of Kosovo"
+    },
+    "capital": [
+      "Pristina"
+    ],
+    "region": "Europe"
+  },
+  {
+    "cca2": "KW",
+    "name": {
+      "common": "Kuwait",
+      "official": "State of Kuwait"
+    },
+    "flags": {
+      "png": "https://flagcdn.com/w320/kw.png",
+      "svg": "https://flagcdn.com/kw.svg",
+      "alt": "Flag of Kuwait"
+    },
+    "capital": [
+      "Kuwait City"
+    ],
+    "region": "Asia"
+  },
+  {
+    "cca2": "LA",
+    "name": {
+      "common": "Laos",
+      "official": "Lao People's Democratic Republic"
+    },
+    "flags": {
+      "png": "https://flagcdn.com/w320/la.png",
+      "svg": "https://flagcdn.com/la.svg",
+      "alt": "Flag of Laos"
+    },
+    "capital": [
+      "Vientiane"
+    ],
+    "region": "Asia"
+  },
+  {
+    "cca2": "LB",
+    "name": {
+      "common": "Lebanon",
+      "official": "Lebanese Republic"
+    },
+    "flags": {
+      "png": "https://flagcdn.com/w320/lb.png",
+      "svg": "https://flagcdn.com/lb.svg",
+      "alt": "Flag of Lebanon"
+    },
+    "capital": [
+      "Beirut"
+    ],
+    "region": "Asia"
+  },
+  {
+    "cca2": "LR",
+    "name": {
+      "common": "Liberia",
+      "official": "Republic of Liberia"
+    },
+    "flags": {
+      "png": "https://flagcdn.com/w320/lr.png",
+      "svg": "https://flagcdn.com/lr.svg",
+      "alt": "Flag of Liberia"
+    },
+    "capital": [
+      "Monrovia"
+    ],
+    "region": "Africa"
+  },
+  {
+    "cca2": "LY",
+    "name": {
+      "common": "Libya",
+      "official": "State of Libya"
+    },
+    "flags": {
+      "png": "https://flagcdn.com/w320/ly.png",
+      "svg": "https://flagcdn.com/ly.svg",
+      "alt": "Flag of Libya"
+    },
+    "capital": [
+      "Tripoli"
+    ],
+    "region": "Africa"
+  },
+  {
+    "cca2": "LC",
+    "name": {
+      "common": "Saint Lucia",
+      "official": "Saint Lucia"
+    },
+    "flags": {
+      "png": "https://flagcdn.com/w320/lc.png",
+      "svg": "https://flagcdn.com/lc.svg",
+      "alt": "Flag of Saint Lucia"
+    },
+    "capital": [
+      "Castries"
+    ],
+    "region": "Americas"
+  },
+  {
+    "cca2": "LI",
+    "name": {
+      "common": "Liechtenstein",
+      "official": "Principality of Liechtenstein"
+    },
+    "flags": {
+      "png": "https://flagcdn.com/w320/li.png",
+      "svg": "https://flagcdn.com/li.svg",
+      "alt": "Flag of Liechtenstein"
+    },
+    "capital": [
+      "Vaduz"
+    ],
+    "region": "Europe"
+  },
+  {
+    "cca2": "LK",
+    "name": {
+      "common": "Sri Lanka",
+      "official": "Democratic Socialist Republic of Sri Lanka"
+    },
+    "flags": {
+      "png": "https://flagcdn.com/w320/lk.png",
+      "svg": "https://flagcdn.com/lk.svg",
+      "alt": "Flag of Sri Lanka"
+    },
+    "capital": [
+      "Colombo"
+    ],
+    "region": "Asia"
+  },
+  {
+    "cca2": "LS",
+    "name": {
+      "common": "Lesotho",
+      "official": "Kingdom of Lesotho"
+    },
+    "flags": {
+      "png": "https://flagcdn.com/w320/ls.png",
+      "svg": "https://flagcdn.com/ls.svg",
+      "alt": "Flag of Lesotho"
+    },
+    "capital": [
+      "Maseru"
+    ],
+    "region": "Africa"
+  },
+  {
+    "cca2": "LT",
+    "name": {
+      "common": "Lithuania",
+      "official": "Republic of Lithuania"
+    },
+    "flags": {
+      "png": "https://flagcdn.com/w320/lt.png",
+      "svg": "https://flagcdn.com/lt.svg",
+      "alt": "Flag of Lithuania"
+    },
+    "capital": [
+      "Vilnius"
+    ],
+    "region": "Europe"
+  },
+  {
+    "cca2": "LU",
+    "name": {
+      "common": "Luxembourg",
+      "official": "Grand Duchy of Luxembourg"
+    },
+    "flags": {
+      "png": "https://flagcdn.com/w320/lu.png",
+      "svg": "https://flagcdn.com/lu.svg",
+      "alt": "Flag of Luxembourg"
+    },
+    "capital": [
+      "Luxembourg"
+    ],
+    "region": "Europe"
+  },
+  {
+    "cca2": "LV",
+    "name": {
+      "common": "Latvia",
+      "official": "Republic of Latvia"
+    },
+    "flags": {
+      "png": "https://flagcdn.com/w320/lv.png",
+      "svg": "https://flagcdn.com/lv.svg",
+      "alt": "Flag of Latvia"
+    },
+    "capital": [
+      "Riga"
+    ],
+    "region": "Europe"
+  },
+  {
+    "cca2": "MO",
+    "name": {
+      "common": "Macau",
+      "official": "Macao Special Administrative Region of the People's Republic of China"
+    },
+    "flags": {
+      "png": "https://flagcdn.com/w320/mo.png",
+      "svg": "https://flagcdn.com/mo.svg",
+      "alt": "Flag of Macau"
+    },
+    "capital": [],
+    "region": "Asia"
+  },
+  {
+    "cca2": "MF",
+    "name": {
+      "common": "Saint Martin",
+      "official": "Saint Martin"
+    },
+    "flags": {
+      "png": "https://flagcdn.com/w320/mf.png",
+      "svg": "https://flagcdn.com/mf.svg",
+      "alt": "Flag of Saint Martin"
+    },
+    "capital": [
+      "Marigot"
+    ],
+    "region": "Americas"
+  },
+  {
+    "cca2": "MA",
+    "name": {
+      "common": "Morocco",
+      "official": "Kingdom of Morocco"
+    },
+    "flags": {
+      "png": "https://flagcdn.com/w320/ma.png",
+      "svg": "https://flagcdn.com/ma.svg",
+      "alt": "Flag of Morocco"
+    },
+    "capital": [
+      "Rabat"
+    ],
+    "region": "Africa"
+  },
+  {
+    "cca2": "MC",
+    "name": {
+      "common": "Monaco",
+      "official": "Principality of Monaco"
+    },
+    "flags": {
+      "png": "https://flagcdn.com/w320/mc.png",
+      "svg": "https://flagcdn.com/mc.svg",
+      "alt": "Flag of Monaco"
+    },
+    "capital": [
+      "Monaco"
+    ],
+    "region": "Europe"
+  },
+  {
+    "cca2": "MD",
+    "name": {
+      "common": "Moldova",
+      "official": "Republic of Moldova"
+    },
+    "flags": {
+      "png": "https://flagcdn.com/w320/md.png",
+      "svg": "https://flagcdn.com/md.svg",
+      "alt": "Flag of Moldova"
+    },
+    "capital": [
+      "Chișinău"
+    ],
+    "region": "Europe"
+  },
+  {
+    "cca2": "MG",
+    "name": {
+      "common": "Madagascar",
+      "official": "Republic of Madagascar"
+    },
+    "flags": {
+      "png": "https://flagcdn.com/w320/mg.png",
+      "svg": "https://flagcdn.com/mg.svg",
+      "alt": "Flag of Madagascar"
+    },
+    "capital": [
+      "Antananarivo"
+    ],
+    "region": "Africa"
+  },
+  {
+    "cca2": "MV",
+    "name": {
+      "common": "Maldives",
+      "official": "Republic of the Maldives"
+    },
+    "flags": {
+      "png": "https://flagcdn.com/w320/mv.png",
+      "svg": "https://flagcdn.com/mv.svg",
+      "alt": "Flag of Maldives"
+    },
+    "capital": [
+      "Malé"
+    ],
+    "region": "Asia"
+  },
+  {
+    "cca2": "MX",
+    "name": {
+      "common": "Mexico",
+      "official": "United Mexican States"
+    },
+    "flags": {
+      "png": "https://flagcdn.com/w320/mx.png",
+      "svg": "https://flagcdn.com/mx.svg",
+      "alt": "Flag of Mexico"
+    },
+    "capital": [
+      "Mexico City"
+    ],
+    "region": "Americas"
+  },
+  {
+    "cca2": "MH",
+    "name": {
+      "common": "Marshall Islands",
+      "official": "Republic of the Marshall Islands"
+    },
+    "flags": {
+      "png": "https://flagcdn.com/w320/mh.png",
+      "svg": "https://flagcdn.com/mh.svg",
+      "alt": "Flag of Marshall Islands"
+    },
+    "capital": [
+      "Majuro"
+    ],
+    "region": "Oceania"
+  },
+  {
+    "cca2": "MK",
+    "name": {
+      "common": "North Macedonia",
+      "official": "Republic of North Macedonia"
+    },
+    "flags": {
+      "png": "https://flagcdn.com/w320/mk.png",
+      "svg": "https://flagcdn.com/mk.svg",
+      "alt": "Flag of North Macedonia"
+    },
+    "capital": [
+      "Skopje"
+    ],
+    "region": "Europe"
+  },
+  {
+    "cca2": "ML",
+    "name": {
+      "common": "Mali",
+      "official": "Republic of Mali"
+    },
+    "flags": {
+      "png": "https://flagcdn.com/w320/ml.png",
+      "svg": "https://flagcdn.com/ml.svg",
+      "alt": "Flag of Mali"
+    },
+    "capital": [
+      "Bamako"
+    ],
+    "region": "Africa"
+  },
+  {
+    "cca2": "MT",
+    "name": {
+      "common": "Malta",
+      "official": "Republic of Malta"
+    },
+    "flags": {
+      "png": "https://flagcdn.com/w320/mt.png",
+      "svg": "https://flagcdn.com/mt.svg",
+      "alt": "Flag of Malta"
+    },
+    "capital": [
+      "Valletta"
+    ],
+    "region": "Europe"
+  },
+  {
+    "cca2": "MM",
+    "name": {
+      "common": "Myanmar",
+      "official": "Republic of the Union of Myanmar"
+    },
+    "flags": {
+      "png": "https://flagcdn.com/w320/mm.png",
+      "svg": "https://flagcdn.com/mm.svg",
+      "alt": "Flag of Myanmar"
+    },
+    "capital": [
+      "Naypyidaw"
+    ],
+    "region": "Asia"
+  },
+  {
+    "cca2": "ME",
+    "name": {
+      "common": "Montenegro",
+      "official": "Montenegro"
+    },
+    "flags": {
+      "png": "https://flagcdn.com/w320/me.png",
+      "svg": "https://flagcdn.com/me.svg",
+      "alt": "Flag of Montenegro"
+    },
+    "capital": [
+      "Podgorica"
+    ],
+    "region": "Europe"
+  },
+  {
+    "cca2": "MN",
+    "name": {
+      "common": "Mongolia",
+      "official": "Mongolia"
+    },
+    "flags": {
+      "png": "https://flagcdn.com/w320/mn.png",
+      "svg": "https://flagcdn.com/mn.svg",
+      "alt": "Flag of Mongolia"
+    },
+    "capital": [
+      "Ulan Bator"
+    ],
+    "region": "Asia"
+  },
+  {
+    "cca2": "MP",
+    "name": {
+      "common": "Northern Mariana Islands",
+      "official": "Commonwealth of the Northern Mariana Islands"
+    },
+    "flags": {
+      "png": "https://flagcdn.com/w320/mp.png",
+      "svg": "https://flagcdn.com/mp.svg",
+      "alt": "Flag of Northern Mariana Islands"
+    },
+    "capital": [
+      "Saipan"
+    ],
+    "region": "Oceania"
+  },
+  {
+    "cca2": "MZ",
+    "name": {
+      "common": "Mozambique",
+      "official": "Republic of Mozambique"
+    },
+    "flags": {
+      "png": "https://flagcdn.com/w320/mz.png",
+      "svg": "https://flagcdn.com/mz.svg",
+      "alt": "Flag of Mozambique"
+    },
+    "capital": [
+      "Maputo"
+    ],
+    "region": "Africa"
+  },
+  {
+    "cca2": "MR",
+    "name": {
+      "common": "Mauritania",
+      "official": "Islamic Republic of Mauritania"
+    },
+    "flags": {
+      "png": "https://flagcdn.com/w320/mr.png",
+      "svg": "https://flagcdn.com/mr.svg",
+      "alt": "Flag of Mauritania"
+    },
+    "capital": [
+      "Nouakchott"
+    ],
+    "region": "Africa"
+  },
+  {
+    "cca2": "MS",
+    "name": {
+      "common": "Montserrat",
+      "official": "Montserrat"
+    },
+    "flags": {
+      "png": "https://flagcdn.com/w320/ms.png",
+      "svg": "https://flagcdn.com/ms.svg",
+      "alt": "Flag of Montserrat"
+    },
+    "capital": [
+      "Plymouth"
+    ],
+    "region": "Americas"
+  },
+  {
+    "cca2": "MQ",
+    "name": {
+      "common": "Martinique",
+      "official": "Martinique"
+    },
+    "flags": {
+      "png": "https://flagcdn.com/w320/mq.png",
+      "svg": "https://flagcdn.com/mq.svg",
+      "alt": "Flag of Martinique"
+    },
+    "capital": [
+      "Fort-de-France"
+    ],
+    "region": "Americas"
+  },
+  {
+    "cca2": "MU",
+    "name": {
+      "common": "Mauritius",
+      "official": "Republic of Mauritius"
+    },
+    "flags": {
+      "png": "https://flagcdn.com/w320/mu.png",
+      "svg": "https://flagcdn.com/mu.svg",
+      "alt": "Flag of Mauritius"
+    },
+    "capital": [
+      "Port Louis"
+    ],
+    "region": "Africa"
+  },
+  {
+    "cca2": "MW",
+    "name": {
+      "common": "Malawi",
+      "official": "Republic of Malawi"
+    },
+    "flags": {
+      "png": "https://flagcdn.com/w320/mw.png",
+      "svg": "https://flagcdn.com/mw.svg",
+      "alt": "Flag of Malawi"
+    },
+    "capital": [
+      "Lilongwe"
+    ],
+    "region": "Africa"
+  },
+  {
+    "cca2": "MY",
+    "name": {
+      "common": "Malaysia",
+      "official": "Malaysia"
+    },
+    "flags": {
+      "png": "https://flagcdn.com/w320/my.png",
+      "svg": "https://flagcdn.com/my.svg",
+      "alt": "Flag of Malaysia"
+    },
+    "capital": [
+      "Kuala Lumpur"
+    ],
+    "region": "Asia"
+  },
+  {
+    "cca2": "YT",
+    "name": {
+      "common": "Mayotte",
+      "official": "Department of Mayotte"
+    },
+    "flags": {
+      "png": "https://flagcdn.com/w320/yt.png",
+      "svg": "https://flagcdn.com/yt.svg",
+      "alt": "Flag of Mayotte"
+    },
+    "capital": [
+      "Mamoudzou"
+    ],
+    "region": "Africa"
+  },
+  {
+    "cca2": "NA",
+    "name": {
+      "common": "Namibia",
+      "official": "Republic of Namibia"
+    },
+    "flags": {
+      "png": "https://flagcdn.com/w320/na.png",
+      "svg": "https://flagcdn.com/na.svg",
+      "alt": "Flag of Namibia"
+    },
+    "capital": [
+      "Windhoek"
+    ],
+    "region": "Africa"
+  },
+  {
+    "cca2": "NC",
+    "name": {
+      "common": "New Caledonia",
+      "official": "New Caledonia"
+    },
+    "flags": {
+      "png": "https://flagcdn.com/w320/nc.png",
+      "svg": "https://flagcdn.com/nc.svg",
+      "alt": "Flag of New Caledonia"
+    },
+    "capital": [
+      "Nouméa"
+    ],
+    "region": "Oceania"
+  },
+  {
+    "cca2": "NE",
+    "name": {
+      "common": "Niger",
+      "official": "Republic of Niger"
+    },
+    "flags": {
+      "png": "https://flagcdn.com/w320/ne.png",
+      "svg": "https://flagcdn.com/ne.svg",
+      "alt": "Flag of Niger"
+    },
+    "capital": [
+      "Niamey"
+    ],
+    "region": "Africa"
+  },
+  {
+    "cca2": "NF",
+    "name": {
+      "common": "Norfolk Island",
+      "official": "Territory of Norfolk Island"
+    },
+    "flags": {
+      "png": "https://flagcdn.com/w320/nf.png",
+      "svg": "https://flagcdn.com/nf.svg",
+      "alt": "Flag of Norfolk Island"
+    },
+    "capital": [
+      "Kingston"
+    ],
+    "region": "Oceania"
+  },
+  {
+    "cca2": "NG",
+    "name": {
+      "common": "Nigeria",
+      "official": "Federal Republic of Nigeria"
+    },
+    "flags": {
+      "png": "https://flagcdn.com/w320/ng.png",
+      "svg": "https://flagcdn.com/ng.svg",
+      "alt": "Flag of Nigeria"
+    },
+    "capital": [
+      "Abuja"
+    ],
+    "region": "Africa"
+  },
+  {
+    "cca2": "NI",
+    "name": {
+      "common": "Nicaragua",
+      "official": "Republic of Nicaragua"
+    },
+    "flags": {
+      "png": "https://flagcdn.com/w320/ni.png",
+      "svg": "https://flagcdn.com/ni.svg",
+      "alt": "Flag of Nicaragua"
+    },
+    "capital": [
+      "Managua"
+    ],
+    "region": "Americas"
+  },
+  {
+    "cca2": "NU",
+    "name": {
+      "common": "Niue",
+      "official": "Niue"
+    },
+    "flags": {
+      "png": "https://flagcdn.com/w320/nu.png",
+      "svg": "https://flagcdn.com/nu.svg",
+      "alt": "Flag of Niue"
+    },
+    "capital": [
+      "Alofi"
+    ],
+    "region": "Oceania"
+  },
+  {
+    "cca2": "NL",
+    "name": {
+      "common": "Netherlands",
+      "official": "Kingdom of the Netherlands"
+    },
+    "flags": {
+      "png": "https://flagcdn.com/w320/nl.png",
+      "svg": "https://flagcdn.com/nl.svg",
+      "alt": "Flag of Netherlands"
+    },
+    "capital": [
+      "Amsterdam"
+    ],
+    "region": "Europe"
+  },
+  {
+    "cca2": "NO",
+    "name": {
+      "common": "Norway",
+      "official": "Kingdom of Norway"
+    },
+    "flags": {
+      "png": "https://flagcdn.com/w320/no.png",
+      "svg": "https://flagcdn.com/no.svg",
+      "alt": "Flag of Norway"
+    },
+    "capital": [
+      "Oslo"
+    ],
+    "region": "Europe"
+  },
+  {
+    "cca2": "NP",
+    "name": {
+      "common": "Nepal",
+      "official": "Federal Democratic Republic of Nepal"
+    },
+    "flags": {
+      "png": "https://flagcdn.com/w320/np.png",
+      "svg": "https://flagcdn.com/np.svg",
+      "alt": "Flag of Nepal"
+    },
+    "capital": [
+      "Kathmandu"
+    ],
+    "region": "Asia"
+  },
+  {
+    "cca2": "NR",
+    "name": {
+      "common": "Nauru",
+      "official": "Republic of Nauru"
+    },
+    "flags": {
+      "png": "https://flagcdn.com/w320/nr.png",
+      "svg": "https://flagcdn.com/nr.svg",
+      "alt": "Flag of Nauru"
+    },
+    "capital": [
+      "Yaren"
+    ],
+    "region": "Oceania"
+  },
+  {
+    "cca2": "NZ",
+    "name": {
+      "common": "New Zealand",
+      "official": "New Zealand"
+    },
+    "flags": {
+      "png": "https://flagcdn.com/w320/nz.png",
+      "svg": "https://flagcdn.com/nz.svg",
+      "alt": "Flag of New Zealand"
+    },
+    "capital": [
+      "Wellington"
+    ],
+    "region": "Oceania"
+  },
+  {
+    "cca2": "OM",
+    "name": {
+      "common": "Oman",
+      "official": "Sultanate of Oman"
+    },
+    "flags": {
+      "png": "https://flagcdn.com/w320/om.png",
+      "svg": "https://flagcdn.com/om.svg",
+      "alt": "Flag of Oman"
+    },
+    "capital": [
+      "Muscat"
+    ],
+    "region": "Asia"
+  },
+  {
+    "cca2": "PK",
+    "name": {
+      "common": "Pakistan",
+      "official": "Islamic Republic of Pakistan"
+    },
+    "flags": {
+      "png": "https://flagcdn.com/w320/pk.png",
+      "svg": "https://flagcdn.com/pk.svg",
+      "alt": "Flag of Pakistan"
+    },
+    "capital": [
+      "Islamabad"
+    ],
+    "region": "Asia"
+  },
+  {
+    "cca2": "PA",
+    "name": {
+      "common": "Panama",
+      "official": "Republic of Panama"
+    },
+    "flags": {
+      "png": "https://flagcdn.com/w320/pa.png",
+      "svg": "https://flagcdn.com/pa.svg",
+      "alt": "Flag of Panama"
+    },
+    "capital": [
+      "Panama City"
+    ],
+    "region": "Americas"
+  },
+  {
+    "cca2": "PN",
+    "name": {
+      "common": "Pitcairn Islands",
+      "official": "Pitcairn Group of Islands"
+    },
+    "flags": {
+      "png": "https://flagcdn.com/w320/pn.png",
+      "svg": "https://flagcdn.com/pn.svg",
+      "alt": "Flag of Pitcairn Islands"
+    },
+    "capital": [
+      "Adamstown"
+    ],
+    "region": "Oceania"
+  },
+  {
+    "cca2": "PE",
+    "name": {
+      "common": "Peru",
+      "official": "Republic of Peru"
+    },
+    "flags": {
+      "png": "https://flagcdn.com/w320/pe.png",
+      "svg": "https://flagcdn.com/pe.svg",
+      "alt": "Flag of Peru"
+    },
+    "capital": [
+      "Lima"
+    ],
+    "region": "Americas"
+  },
+  {
+    "cca2": "PH",
+    "name": {
+      "common": "Philippines",
+      "official": "Republic of the Philippines"
+    },
+    "flags": {
+      "png": "https://flagcdn.com/w320/ph.png",
+      "svg": "https://flagcdn.com/ph.svg",
+      "alt": "Flag of Philippines"
+    },
+    "capital": [
+      "Manila"
+    ],
+    "region": "Asia"
+  },
+  {
+    "cca2": "PW",
+    "name": {
+      "common": "Palau",
+      "official": "Republic of Palau"
+    },
+    "flags": {
+      "png": "https://flagcdn.com/w320/pw.png",
+      "svg": "https://flagcdn.com/pw.svg",
+      "alt": "Flag of Palau"
+    },
+    "capital": [
+      "Ngerulmud"
+    ],
+    "region": "Oceania"
+  },
+  {
+    "cca2": "PG",
+    "name": {
+      "common": "Papua New Guinea",
+      "official": "Independent State of Papua New Guinea"
+    },
+    "flags": {
+      "png": "https://flagcdn.com/w320/pg.png",
+      "svg": "https://flagcdn.com/pg.svg",
+      "alt": "Flag of Papua New Guinea"
+    },
+    "capital": [
+      "Port Moresby"
+    ],
+    "region": "Oceania"
+  },
+  {
+    "cca2": "PL",
+    "name": {
+      "common": "Poland",
+      "official": "Republic of Poland"
+    },
+    "flags": {
+      "png": "https://flagcdn.com/w320/pl.png",
+      "svg": "https://flagcdn.com/pl.svg",
+      "alt": "Flag of Poland"
+    },
+    "capital": [
+      "Warsaw"
+    ],
+    "region": "Europe"
+  },
+  {
+    "cca2": "PR",
+    "name": {
+      "common": "Puerto Rico",
+      "official": "Commonwealth of Puerto Rico"
+    },
+    "flags": {
+      "png": "https://flagcdn.com/w320/pr.png",
+      "svg": "https://flagcdn.com/pr.svg",
+      "alt": "Flag of Puerto Rico"
+    },
+    "capital": [
+      "San Juan"
+    ],
+    "region": "Americas"
+  },
+  {
+    "cca2": "KP",
+    "name": {
+      "common": "North Korea",
+      "official": "Democratic People's Republic of Korea"
+    },
+    "flags": {
+      "png": "https://flagcdn.com/w320/kp.png",
+      "svg": "https://flagcdn.com/kp.svg",
+      "alt": "Flag of North Korea"
+    },
+    "capital": [
+      "Pyongyang"
+    ],
+    "region": "Asia"
+  },
+  {
+    "cca2": "PT",
+    "name": {
+      "common": "Portugal",
+      "official": "Portuguese Republic"
+    },
+    "flags": {
+      "png": "https://flagcdn.com/w320/pt.png",
+      "svg": "https://flagcdn.com/pt.svg",
+      "alt": "Flag of Portugal"
+    },
+    "capital": [
+      "Lisbon"
+    ],
+    "region": "Europe"
+  },
+  {
+    "cca2": "PY",
+    "name": {
+      "common": "Paraguay",
+      "official": "Republic of Paraguay"
+    },
+    "flags": {
+      "png": "https://flagcdn.com/w320/py.png",
+      "svg": "https://flagcdn.com/py.svg",
+      "alt": "Flag of Paraguay"
+    },
+    "capital": [
+      "Asunción"
+    ],
+    "region": "Americas"
+  },
+  {
+    "cca2": "PS",
+    "name": {
+      "common": "Palestine",
+      "official": "State of Palestine"
+    },
+    "flags": {
+      "png": "https://flagcdn.com/w320/ps.png",
+      "svg": "https://flagcdn.com/ps.svg",
+      "alt": "Flag of Palestine"
+    },
+    "capital": [
+      "Ramallah"
+    ],
+    "region": "Asia"
+  },
+  {
+    "cca2": "PF",
+    "name": {
+      "common": "French Polynesia",
+      "official": "French Polynesia"
+    },
+    "flags": {
+      "png": "https://flagcdn.com/w320/pf.png",
+      "svg": "https://flagcdn.com/pf.svg",
+      "alt": "Flag of French Polynesia"
+    },
+    "capital": [
+      "Papeetē"
+    ],
+    "region": "Oceania"
+  },
+  {
+    "cca2": "QA",
+    "name": {
+      "common": "Qatar",
+      "official": "State of Qatar"
+    },
+    "flags": {
+      "png": "https://flagcdn.com/w320/qa.png",
+      "svg": "https://flagcdn.com/qa.svg",
+      "alt": "Flag of Qatar"
+    },
+    "capital": [
+      "Doha"
+    ],
+    "region": "Asia"
+  },
+  {
+    "cca2": "RE",
+    "name": {
+      "common": "Réunion",
+      "official": "Réunion Island"
+    },
+    "flags": {
+      "png": "https://flagcdn.com/w320/re.png",
+      "svg": "https://flagcdn.com/re.svg",
+      "alt": "Flag of Réunion"
+    },
+    "capital": [
+      "Saint-Denis"
+    ],
+    "region": "Africa"
+  },
+  {
+    "cca2": "RO",
+    "name": {
+      "common": "Romania",
+      "official": "Romania"
+    },
+    "flags": {
+      "png": "https://flagcdn.com/w320/ro.png",
+      "svg": "https://flagcdn.com/ro.svg",
+      "alt": "Flag of Romania"
+    },
+    "capital": [
+      "Bucharest"
+    ],
+    "region": "Europe"
+  },
+  {
+    "cca2": "RU",
+    "name": {
+      "common": "Russia",
+      "official": "Russian Federation"
+    },
+    "flags": {
+      "png": "https://flagcdn.com/w320/ru.png",
+      "svg": "https://flagcdn.com/ru.svg",
+      "alt": "Flag of Russia"
+    },
+    "capital": [
+      "Moscow"
+    ],
+    "region": "Europe"
+  },
+  {
+    "cca2": "RW",
+    "name": {
+      "common": "Rwanda",
+      "official": "Republic of Rwanda"
+    },
+    "flags": {
+      "png": "https://flagcdn.com/w320/rw.png",
+      "svg": "https://flagcdn.com/rw.svg",
+      "alt": "Flag of Rwanda"
+    },
+    "capital": [
+      "Kigali"
+    ],
+    "region": "Africa"
+  },
+  {
+    "cca2": "SA",
+    "name": {
+      "common": "Saudi Arabia",
+      "official": "Kingdom of Saudi Arabia"
+    },
+    "flags": {
+      "png": "https://flagcdn.com/w320/sa.png",
+      "svg": "https://flagcdn.com/sa.svg",
+      "alt": "Flag of Saudi Arabia"
+    },
+    "capital": [
+      "Riyadh"
+    ],
+    "region": "Asia"
+  },
+  {
+    "cca2": "SD",
+    "name": {
+      "common": "Sudan",
+      "official": "Republic of the Sudan"
+    },
+    "flags": {
+      "png": "https://flagcdn.com/w320/sd.png",
+      "svg": "https://flagcdn.com/sd.svg",
+      "alt": "Flag of Sudan"
+    },
+    "capital": [
+      "Khartoum"
+    ],
+    "region": "Africa"
+  },
+  {
+    "cca2": "SN",
+    "name": {
+      "common": "Senegal",
+      "official": "Republic of Senegal"
+    },
+    "flags": {
+      "png": "https://flagcdn.com/w320/sn.png",
+      "svg": "https://flagcdn.com/sn.svg",
+      "alt": "Flag of Senegal"
+    },
+    "capital": [
+      "Dakar"
+    ],
+    "region": "Africa"
+  },
+  {
+    "cca2": "SG",
+    "name": {
+      "common": "Singapore",
+      "official": "Republic of Singapore"
+    },
+    "flags": {
+      "png": "https://flagcdn.com/w320/sg.png",
+      "svg": "https://flagcdn.com/sg.svg",
+      "alt": "Flag of Singapore"
+    },
+    "capital": [
+      "Singapore"
+    ],
+    "region": "Asia"
+  },
+  {
+    "cca2": "GS",
+    "name": {
+      "common": "South Georgia",
+      "official": "South Georgia and the South Sandwich Islands"
+    },
+    "flags": {
+      "png": "https://flagcdn.com/w320/gs.png",
+      "svg": "https://flagcdn.com/gs.svg",
+      "alt": "Flag of South Georgia"
+    },
+    "capital": [
+      "King Edward Point"
+    ],
+    "region": "Antarctic"
+  },
+  {
+    "cca2": "SJ",
+    "name": {
+      "common": "Svalbard and Jan Mayen",
+      "official": "Svalbard og Jan Mayen"
+    },
+    "flags": {
+      "png": "https://flagcdn.com/w320/sj.png",
+      "svg": "https://flagcdn.com/sj.svg",
+      "alt": "Flag of Svalbard and Jan Mayen"
+    },
+    "capital": [
+      "Longyearbyen"
+    ],
+    "region": "Europe"
+  },
+  {
+    "cca2": "SB",
+    "name": {
+      "common": "Solomon Islands",
+      "official": "Solomon Islands"
+    },
+    "flags": {
+      "png": "https://flagcdn.com/w320/sb.png",
+      "svg": "https://flagcdn.com/sb.svg",
+      "alt": "Flag of Solomon Islands"
+    },
+    "capital": [
+      "Honiara"
+    ],
+    "region": "Oceania"
+  },
+  {
+    "cca2": "SL",
+    "name": {
+      "common": "Sierra Leone",
+      "official": "Republic of Sierra Leone"
+    },
+    "flags": {
+      "png": "https://flagcdn.com/w320/sl.png",
+      "svg": "https://flagcdn.com/sl.svg",
+      "alt": "Flag of Sierra Leone"
+    },
+    "capital": [
+      "Freetown"
+    ],
+    "region": "Africa"
+  },
+  {
+    "cca2": "SV",
+    "name": {
+      "common": "El Salvador",
+      "official": "Republic of El Salvador"
+    },
+    "flags": {
+      "png": "https://flagcdn.com/w320/sv.png",
+      "svg": "https://flagcdn.com/sv.svg",
+      "alt": "Flag of El Salvador"
+    },
+    "capital": [
+      "San Salvador"
+    ],
+    "region": "Americas"
+  },
+  {
+    "cca2": "SM",
+    "name": {
+      "common": "San Marino",
+      "official": "Most Serene Republic of San Marino"
+    },
+    "flags": {
+      "png": "https://flagcdn.com/w320/sm.png",
+      "svg": "https://flagcdn.com/sm.svg",
+      "alt": "Flag of San Marino"
+    },
+    "capital": [
+      "City of San Marino"
+    ],
+    "region": "Europe"
+  },
+  {
+    "cca2": "SO",
+    "name": {
+      "common": "Somalia",
+      "official": "Federal Republic of Somalia"
+    },
+    "flags": {
+      "png": "https://flagcdn.com/w320/so.png",
+      "svg": "https://flagcdn.com/so.svg",
+      "alt": "Flag of Somalia"
+    },
+    "capital": [
+      "Mogadishu"
+    ],
+    "region": "Africa"
+  },
+  {
+    "cca2": "PM",
+    "name": {
+      "common": "Saint Pierre and Miquelon",
+      "official": "Saint Pierre and Miquelon"
+    },
+    "flags": {
+      "png": "https://flagcdn.com/w320/pm.png",
+      "svg": "https://flagcdn.com/pm.svg",
+      "alt": "Flag of Saint Pierre and Miquelon"
+    },
+    "capital": [
+      "Saint-Pierre"
+    ],
+    "region": "Americas"
+  },
+  {
+    "cca2": "RS",
+    "name": {
+      "common": "Serbia",
+      "official": "Republic of Serbia"
+    },
+    "flags": {
+      "png": "https://flagcdn.com/w320/rs.png",
+      "svg": "https://flagcdn.com/rs.svg",
+      "alt": "Flag of Serbia"
+    },
+    "capital": [
+      "Belgrade"
+    ],
+    "region": "Europe"
+  },
+  {
+    "cca2": "SS",
+    "name": {
+      "common": "South Sudan",
+      "official": "Republic of South Sudan"
+    },
+    "flags": {
+      "png": "https://flagcdn.com/w320/ss.png",
+      "svg": "https://flagcdn.com/ss.svg",
+      "alt": "Flag of South Sudan"
+    },
+    "capital": [
+      "Juba"
+    ],
+    "region": "Africa"
+  },
+  {
+    "cca2": "ST",
+    "name": {
+      "common": "São Tomé and Príncipe",
+      "official": "Democratic Republic of São Tomé and Príncipe"
+    },
+    "flags": {
+      "png": "https://flagcdn.com/w320/st.png",
+      "svg": "https://flagcdn.com/st.svg",
+      "alt": "Flag of São Tomé and Príncipe"
+    },
+    "capital": [
+      "São Tomé"
+    ],
+    "region": "Africa"
+  },
+  {
+    "cca2": "SR",
+    "name": {
+      "common": "Suriname",
+      "official": "Republic of Suriname"
+    },
+    "flags": {
+      "png": "https://flagcdn.com/w320/sr.png",
+      "svg": "https://flagcdn.com/sr.svg",
+      "alt": "Flag of Suriname"
+    },
+    "capital": [
+      "Paramaribo"
+    ],
+    "region": "Americas"
+  },
+  {
+    "cca2": "SK",
+    "name": {
+      "common": "Slovakia",
+      "official": "Slovak Republic"
+    },
+    "flags": {
+      "png": "https://flagcdn.com/w320/sk.png",
+      "svg": "https://flagcdn.com/sk.svg",
+      "alt": "Flag of Slovakia"
+    },
+    "capital": [
+      "Bratislava"
+    ],
+    "region": "Europe"
+  },
+  {
+    "cca2": "SI",
+    "name": {
+      "common": "Slovenia",
+      "official": "Republic of Slovenia"
+    },
+    "flags": {
+      "png": "https://flagcdn.com/w320/si.png",
+      "svg": "https://flagcdn.com/si.svg",
+      "alt": "Flag of Slovenia"
+    },
+    "capital": [
+      "Ljubljana"
+    ],
+    "region": "Europe"
+  },
+  {
+    "cca2": "SE",
+    "name": {
+      "common": "Sweden",
+      "official": "Kingdom of Sweden"
+    },
+    "flags": {
+      "png": "https://flagcdn.com/w320/se.png",
+      "svg": "https://flagcdn.com/se.svg",
+      "alt": "Flag of Sweden"
+    },
+    "capital": [
+      "Stockholm"
+    ],
+    "region": "Europe"
+  },
+  {
+    "cca2": "SZ",
+    "name": {
+      "common": "Eswatini",
+      "official": "Kingdom of Eswatini"
+    },
+    "flags": {
+      "png": "https://flagcdn.com/w320/sz.png",
+      "svg": "https://flagcdn.com/sz.svg",
+      "alt": "Flag of Eswatini"
+    },
+    "capital": [
+      "Lobamba"
+    ],
+    "region": "Africa"
+  },
+  {
+    "cca2": "SX",
+    "name": {
+      "common": "Sint Maarten",
+      "official": "Sint Maarten"
+    },
+    "flags": {
+      "png": "https://flagcdn.com/w320/sx.png",
+      "svg": "https://flagcdn.com/sx.svg",
+      "alt": "Flag of Sint Maarten"
+    },
+    "capital": [
+      "Philipsburg"
+    ],
+    "region": "Americas"
+  },
+  {
+    "cca2": "SC",
+    "name": {
+      "common": "Seychelles",
+      "official": "Republic of Seychelles"
+    },
+    "flags": {
+      "png": "https://flagcdn.com/w320/sc.png",
+      "svg": "https://flagcdn.com/sc.svg",
+      "alt": "Flag of Seychelles"
+    },
+    "capital": [
+      "Victoria"
+    ],
+    "region": "Africa"
+  },
+  {
+    "cca2": "SY",
+    "name": {
+      "common": "Syria",
+      "official": "Syrian Arab Republic"
+    },
+    "flags": {
+      "png": "https://flagcdn.com/w320/sy.png",
+      "svg": "https://flagcdn.com/sy.svg",
+      "alt": "Flag of Syria"
+    },
+    "capital": [
+      "Damascus"
+    ],
+    "region": "Asia"
+  },
+  {
+    "cca2": "TC",
+    "name": {
+      "common": "Turks and Caicos Islands",
+      "official": "Turks and Caicos Islands"
+    },
+    "flags": {
+      "png": "https://flagcdn.com/w320/tc.png",
+      "svg": "https://flagcdn.com/tc.svg",
+      "alt": "Flag of Turks and Caicos Islands"
+    },
+    "capital": [
+      "Cockburn Town"
+    ],
+    "region": "Americas"
+  },
+  {
+    "cca2": "TD",
+    "name": {
+      "common": "Chad",
+      "official": "Republic of Chad"
+    },
+    "flags": {
+      "png": "https://flagcdn.com/w320/td.png",
+      "svg": "https://flagcdn.com/td.svg",
+      "alt": "Flag of Chad"
+    },
+    "capital": [
+      "N'Djamena"
+    ],
+    "region": "Africa"
+  },
+  {
+    "cca2": "TG",
+    "name": {
+      "common": "Togo",
+      "official": "Togolese Republic"
+    },
+    "flags": {
+      "png": "https://flagcdn.com/w320/tg.png",
+      "svg": "https://flagcdn.com/tg.svg",
+      "alt": "Flag of Togo"
+    },
+    "capital": [
+      "Lomé"
+    ],
+    "region": "Africa"
+  },
+  {
+    "cca2": "TH",
+    "name": {
+      "common": "Thailand",
+      "official": "Kingdom of Thailand"
+    },
+    "flags": {
+      "png": "https://flagcdn.com/w320/th.png",
+      "svg": "https://flagcdn.com/th.svg",
+      "alt": "Flag of Thailand"
+    },
+    "capital": [
+      "Bangkok"
+    ],
+    "region": "Asia"
+  },
+  {
+    "cca2": "TJ",
+    "name": {
+      "common": "Tajikistan",
+      "official": "Republic of Tajikistan"
+    },
+    "flags": {
+      "png": "https://flagcdn.com/w320/tj.png",
+      "svg": "https://flagcdn.com/tj.svg",
+      "alt": "Flag of Tajikistan"
+    },
+    "capital": [
+      "Dushanbe"
+    ],
+    "region": "Asia"
+  },
+  {
+    "cca2": "TK",
+    "name": {
+      "common": "Tokelau",
+      "official": "Tokelau"
+    },
+    "flags": {
+      "png": "https://flagcdn.com/w320/tk.png",
+      "svg": "https://flagcdn.com/tk.svg",
+      "alt": "Flag of Tokelau"
+    },
+    "capital": [
+      "Fakaofo"
+    ],
+    "region": "Oceania"
+  },
+  {
+    "cca2": "TM",
+    "name": {
+      "common": "Turkmenistan",
+      "official": "Turkmenistan"
+    },
+    "flags": {
+      "png": "https://flagcdn.com/w320/tm.png",
+      "svg": "https://flagcdn.com/tm.svg",
+      "alt": "Flag of Turkmenistan"
+    },
+    "capital": [
+      "Ashgabat"
+    ],
+    "region": "Asia"
+  },
+  {
+    "cca2": "TL",
+    "name": {
+      "common": "Timor-Leste",
+      "official": "Democratic Republic of Timor-Leste"
+    },
+    "flags": {
+      "png": "https://flagcdn.com/w320/tl.png",
+      "svg": "https://flagcdn.com/tl.svg",
+      "alt": "Flag of Timor-Leste"
+    },
+    "capital": [
+      "Dili"
+    ],
+    "region": "Asia"
+  },
+  {
+    "cca2": "TO",
+    "name": {
+      "common": "Tonga",
+      "official": "Kingdom of Tonga"
+    },
+    "flags": {
+      "png": "https://flagcdn.com/w320/to.png",
+      "svg": "https://flagcdn.com/to.svg",
+      "alt": "Flag of Tonga"
+    },
+    "capital": [
+      "Nuku'alofa"
+    ],
+    "region": "Oceania"
+  },
+  {
+    "cca2": "TT",
+    "name": {
+      "common": "Trinidad and Tobago",
+      "official": "Republic of Trinidad and Tobago"
+    },
+    "flags": {
+      "png": "https://flagcdn.com/w320/tt.png",
+      "svg": "https://flagcdn.com/tt.svg",
+      "alt": "Flag of Trinidad and Tobago"
+    },
+    "capital": [
+      "Port of Spain"
+    ],
+    "region": "Americas"
+  },
+  {
+    "cca2": "TN",
+    "name": {
+      "common": "Tunisia",
+      "official": "Tunisian Republic"
+    },
+    "flags": {
+      "png": "https://flagcdn.com/w320/tn.png",
+      "svg": "https://flagcdn.com/tn.svg",
+      "alt": "Flag of Tunisia"
+    },
+    "capital": [
+      "Tunis"
+    ],
+    "region": "Africa"
+  },
+  {
+    "cca2": "TR",
+    "name": {
+      "common": "Türkiye",
+      "official": "Republic of Türkiye"
+    },
+    "flags": {
+      "png": "https://flagcdn.com/w320/tr.png",
+      "svg": "https://flagcdn.com/tr.svg",
+      "alt": "Flag of Türkiye"
+    },
+    "capital": [
+      "Ankara"
+    ],
+    "region": "Asia"
+  },
+  {
+    "cca2": "TV",
+    "name": {
+      "common": "Tuvalu",
+      "official": "Tuvalu"
+    },
+    "flags": {
+      "png": "https://flagcdn.com/w320/tv.png",
+      "svg": "https://flagcdn.com/tv.svg",
+      "alt": "Flag of Tuvalu"
+    },
+    "capital": [
+      "Funafuti"
+    ],
+    "region": "Oceania"
+  },
+  {
+    "cca2": "TW",
+    "name": {
+      "common": "Taiwan",
+      "official": "Republic of China (Taiwan)"
+    },
+    "flags": {
+      "png": "https://flagcdn.com/w320/tw.png",
+      "svg": "https://flagcdn.com/tw.svg",
+      "alt": "Flag of Taiwan"
+    },
+    "capital": [
+      "Taipei"
+    ],
+    "region": "Asia"
+  },
+  {
+    "cca2": "TZ",
+    "name": {
+      "common": "Tanzania",
+      "official": "United Republic of Tanzania"
+    },
+    "flags": {
+      "png": "https://flagcdn.com/w320/tz.png",
+      "svg": "https://flagcdn.com/tz.svg",
+      "alt": "Flag of Tanzania"
+    },
+    "capital": [
+      "Dodoma"
+    ],
+    "region": "Africa"
+  },
+  {
+    "cca2": "UG",
+    "name": {
+      "common": "Uganda",
+      "official": "Republic of Uganda"
+    },
+    "flags": {
+      "png": "https://flagcdn.com/w320/ug.png",
+      "svg": "https://flagcdn.com/ug.svg",
+      "alt": "Flag of Uganda"
+    },
+    "capital": [
+      "Kampala"
+    ],
+    "region": "Africa"
+  },
+  {
+    "cca2": "UA",
+    "name": {
+      "common": "Ukraine",
+      "official": "Ukraine"
+    },
+    "flags": {
+      "png": "https://flagcdn.com/w320/ua.png",
+      "svg": "https://flagcdn.com/ua.svg",
+      "alt": "Flag of Ukraine"
+    },
+    "capital": [
+      "Kyiv"
+    ],
+    "region": "Europe"
+  },
+  {
+    "cca2": "UM",
+    "name": {
+      "common": "United States Minor Outlying Islands",
+      "official": "United States Minor Outlying Islands"
+    },
+    "flags": {
+      "png": "https://flagcdn.com/w320/um.png",
+      "svg": "https://flagcdn.com/um.svg",
+      "alt": "Flag of United States Minor Outlying Islands"
+    },
+    "capital": [],
+    "region": "Americas"
+  },
+  {
+    "cca2": "UY",
+    "name": {
+      "common": "Uruguay",
+      "official": "Oriental Republic of Uruguay"
+    },
+    "flags": {
+      "png": "https://flagcdn.com/w320/uy.png",
+      "svg": "https://flagcdn.com/uy.svg",
+      "alt": "Flag of Uruguay"
+    },
+    "capital": [
+      "Montevideo"
+    ],
+    "region": "Americas"
+  },
+  {
+    "cca2": "US",
+    "name": {
+      "common": "United States",
+      "official": "United States of America"
+    },
+    "flags": {
+      "png": "https://flagcdn.com/w320/us.png",
+      "svg": "https://flagcdn.com/us.svg",
+      "alt": "Flag of United States"
+    },
+    "capital": [
+      "Washington D.C."
+    ],
+    "region": "Americas"
+  },
+  {
+    "cca2": "UZ",
+    "name": {
+      "common": "Uzbekistan",
+      "official": "Republic of Uzbekistan"
+    },
+    "flags": {
+      "png": "https://flagcdn.com/w320/uz.png",
+      "svg": "https://flagcdn.com/uz.svg",
+      "alt": "Flag of Uzbekistan"
+    },
+    "capital": [
+      "Tashkent"
+    ],
+    "region": "Asia"
+  },
+  {
+    "cca2": "VA",
+    "name": {
+      "common": "Vatican City",
+      "official": "Vatican City State"
+    },
+    "flags": {
+      "png": "https://flagcdn.com/w320/va.png",
+      "svg": "https://flagcdn.com/va.svg",
+      "alt": "Flag of Vatican City"
+    },
+    "capital": [
+      "Vatican City"
+    ],
+    "region": "Europe"
+  },
+  {
+    "cca2": "VC",
+    "name": {
+      "common": "Saint Vincent and the Grenadines",
+      "official": "Saint Vincent and the Grenadines"
+    },
+    "flags": {
+      "png": "https://flagcdn.com/w320/vc.png",
+      "svg": "https://flagcdn.com/vc.svg",
+      "alt": "Flag of Saint Vincent and the Grenadines"
+    },
+    "capital": [
+      "Kingstown"
+    ],
+    "region": "Americas"
+  },
+  {
+    "cca2": "VE",
+    "name": {
+      "common": "Venezuela",
+      "official": "Bolivarian Republic of Venezuela"
+    },
+    "flags": {
+      "png": "https://flagcdn.com/w320/ve.png",
+      "svg": "https://flagcdn.com/ve.svg",
+      "alt": "Flag of Venezuela"
+    },
+    "capital": [
+      "Caracas"
+    ],
+    "region": "Americas"
+  },
+  {
+    "cca2": "VG",
+    "name": {
+      "common": "British Virgin Islands",
+      "official": "Virgin Islands"
+    },
+    "flags": {
+      "png": "https://flagcdn.com/w320/vg.png",
+      "svg": "https://flagcdn.com/vg.svg",
+      "alt": "Flag of British Virgin Islands"
+    },
+    "capital": [
+      "Road Town"
+    ],
+    "region": "Americas"
+  },
+  {
+    "cca2": "VI",
+    "name": {
+      "common": "United States Virgin Islands",
+      "official": "Virgin Islands of the United States"
+    },
+    "flags": {
+      "png": "https://flagcdn.com/w320/vi.png",
+      "svg": "https://flagcdn.com/vi.svg",
+      "alt": "Flag of United States Virgin Islands"
+    },
+    "capital": [
+      "Charlotte Amalie"
+    ],
+    "region": "Americas"
+  },
+  {
+    "cca2": "VN",
+    "name": {
+      "common": "Vietnam",
+      "official": "Socialist Republic of Vietnam"
+    },
+    "flags": {
+      "png": "https://flagcdn.com/w320/vn.png",
+      "svg": "https://flagcdn.com/vn.svg",
+      "alt": "Flag of Vietnam"
+    },
+    "capital": [
+      "Hanoi"
+    ],
+    "region": "Asia"
+  },
+  {
+    "cca2": "VU",
+    "name": {
+      "common": "Vanuatu",
+      "official": "Republic of Vanuatu"
+    },
+    "flags": {
+      "png": "https://flagcdn.com/w320/vu.png",
+      "svg": "https://flagcdn.com/vu.svg",
+      "alt": "Flag of Vanuatu"
+    },
+    "capital": [
+      "Port Vila"
+    ],
+    "region": "Oceania"
+  },
+  {
+    "cca2": "WF",
+    "name": {
+      "common": "Wallis and Futuna",
+      "official": "Territory of the Wallis and Futuna Islands"
+    },
+    "flags": {
+      "png": "https://flagcdn.com/w320/wf.png",
+      "svg": "https://flagcdn.com/wf.svg",
+      "alt": "Flag of Wallis and Futuna"
+    },
+    "capital": [
+      "Mata-Utu"
+    ],
+    "region": "Oceania"
+  },
+  {
+    "cca2": "WS",
+    "name": {
+      "common": "Samoa",
+      "official": "Independent State of Samoa"
+    },
+    "flags": {
+      "png": "https://flagcdn.com/w320/ws.png",
+      "svg": "https://flagcdn.com/ws.svg",
+      "alt": "Flag of Samoa"
+    },
+    "capital": [
+      "Apia"
+    ],
+    "region": "Oceania"
+  },
+  {
+    "cca2": "YE",
+    "name": {
+      "common": "Yemen",
+      "official": "Republic of Yemen"
+    },
+    "flags": {
+      "png": "https://flagcdn.com/w320/ye.png",
+      "svg": "https://flagcdn.com/ye.svg",
+      "alt": "Flag of Yemen"
+    },
+    "capital": [
+      "Sana'a"
+    ],
+    "region": "Asia"
+  },
+  {
+    "cca2": "ZA",
+    "name": {
+      "common": "South Africa",
+      "official": "Republic of South Africa"
+    },
+    "flags": {
+      "png": "https://flagcdn.com/w320/za.png",
+      "svg": "https://flagcdn.com/za.svg",
+      "alt": "Flag of South Africa"
+    },
+    "capital": [
+      "Pretoria",
+      "Bloemfontein",
+      "Cape Town"
+    ],
+    "region": "Africa"
+  },
+  {
+    "cca2": "ZM",
+    "name": {
+      "common": "Zambia",
+      "official": "Republic of Zambia"
+    },
+    "flags": {
+      "png": "https://flagcdn.com/w320/zm.png",
+      "svg": "https://flagcdn.com/zm.svg",
+      "alt": "Flag of Zambia"
+    },
+    "capital": [
+      "Lusaka"
+    ],
+    "region": "Africa"
+  },
+  {
+    "cca2": "ZW",
+    "name": {
+      "common": "Zimbabwe",
+      "official": "Republic of Zimbabwe"
+    },
+    "flags": {
+      "png": "https://flagcdn.com/w320/zw.png",
+      "svg": "https://flagcdn.com/zw.svg",
+      "alt": "Flag of Zimbabwe"
+    },
+    "capital": [
+      "Harare"
+    ],
+    "region": "Africa"
+  }
+]
